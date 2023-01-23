@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        function al(){
+            var s = document.getElementById('textbox');
+            var m = s.value;
+            document.getElementById("kutu").style.transform="rotate("+m+"deg)"; //rotate() genel olarak döndürür
+        }
+        function rxf(){
+            var k2 = document.getElementById("k2");
+            var rx = document.getElementById("rx");
+            k2.style.transform="skewX("+rx.value+"deg)"; // skewX() yatay olarak büker
+        }
+        function ryf(){
+            var k2 = document.getElementById("k2");
+            var ry = document.getElementById("ry");
+            k2.style.transform="skewY("+ry.value+"deg)"; // skewY() dikey olarak büker
+            // kısayol olarak sadece skew(x değeri, y değeri) şeklindede kullanılabilir
+        }
+        var durum = true;
+        var html = document.querySelector(":root");
+        function degis(x){
+            if(durum){
+                x.innerText = "açık mod";
+                html.style.filter="invert(1)";
+                durum = false;
+            }
+            else{
+                x.innerText="karanlık mod";
+                html.style.filter="invert(0)";
+                durum = true;
+            }
+        }
+    </script>
+</head>
+<body>
+    <button onclick="degis(this)">karanlık mod</button>
+    <br>
+    <input type="checkbox" id="x"> <label for="x">yatay döndür</label>   <input type="checkbox" id="y"><label for="y">dikey döndür</label>  <br>
+    <input type="text" id="textbox" placeholder="açı giriniz"> <button onclick="al()">enter</button>
+    <div class="kutu" id="kutu">kutu1</div> 
+    <div class="kutu2" id="k2">kutu2</div>
+    <br>
+    <input type="range" min="0" max="180" id="rx" value="0" oninput="rxf()"> <label for="rx">Yatay olarak bük</label> <br>
+    <input type="range" min="0" max="180" id="ry" value="0" oninput="ryf()"> <label for="ry">Dikey olarak bük</label> 
+    <div class="kutu kutu3">orjinal boyut 200x200</div>
+    <div class="kutu4"></div>
+</body>
+</html>

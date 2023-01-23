@@ -1,0 +1,78 @@
+<!DOCtype html>
+<html lang="tr">
+    <head>
+        <meta name="description" content="html çalışmaları">
+        <meta name="keywords" content="html,css,java script">
+        <meta name="author" content="Arda ÇETİN">
+        <meta name="viewport" content="width=device-width,inital-scale = 1.0">
+
+        <title> websitem </title>
+        <link rel="icon" href="../images/light-bulb.png" sizes="512x512">
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body>
+        <header class="baslik1">
+            <div id="link">
+                <a href="page2.html">
+                    <img src="../images/anaLogo.png" alt="leonis" width="180px" height="180px" id="anaLogo">
+                </a>
+            </div>
+        </header>
+        <div class="form">
+            <form action="page2.html" method="post">
+                <label>Ad Soyad:</label><input type="text" name="ad" autofocus="autofocus">           
+                <br/><br/>
+                <label>e-Posta:</label><input type="email" name="eposta">
+                <br/><br/>
+                <label>Şifre:</label><input type="text" name="sifre"><br/><br/>
+                <input type="radio" name="cinsiyet" value="erkek" checked="on"> Erkek
+                <br/><br/>
+                <input type="radio" name="cinsiyet" value="kadin"> Kadın 
+                <br/><br/>
+                <input type="submit" value="Gönder"> <input type="reset" value="Temizle">
+
+                <p>Renk seçin: <input type="color" name="renk"></p>
+                <p>Doğum tarihi: <input type="date" name="dogumtarihi"></p>
+                <p>Doğum günü:<input type="datetime" name="dogumgunu"></p>
+                <p>Ay ve Yıl: <<input type="month" name="ay"></p>
+                <p>Hafta ve Yıl: <input type="week" name="hafta"></p>
+                <p>Randevu saati: <input type="time" name="randevusaat"></p>
+                <p>Randevu tarihi ve saati: <input type="datetime-local" name="randevutarih"></p>
+                <p>E-posta: <input type="email" name="eposta"></p>
+                <p>Web sayfanız: <input type="url" name="weburl"></p>
+                <p>Sayı (1-9): <input type="sumber" name="sec" min="1" max="9"></p>
+                <p>Parola: <input type="password" name="sifre"></p>
+                <p>Aralık (1-9): <input type="range" name="secim" min="1" max="9"></p>
+                <p>Arama: <input type="search" name="arama"></p>
+                <p>GSM: <input type="tel" name="gsmno"></p>
+                <br><br>
+                <select name="riskharitasi" multiple>
+                    <option selected value="none">Hiçbiri</option>
+                    <optgroup label="Kırmızı">
+                        <option value="k1">Sakarya</option>
+                        <option value="k2">Konya</option>
+                        <option value="k3">Balıkesir</option>
+                    </optgroup>
+                    <optgroup label="Sarı">
+                        <option value="s1">Eskişehir</option>
+                        <option value="s2">Kırşehir</option>
+                        <option value="s3">Yozgat</option>
+                    </optgroup>
+                    <optgroup label="Turuncu">
+                        <option value="t1">Artvin</option>
+                        <option value="t2">Çanakkale</option>
+                        <option value="t3">Kütahya</option>
+                    </optgroup>
+                    <optgroup label="Mavi">
+                        <option value="m1">Uşak</option>
+                        <option value="m2">Batman</option>
+                        <option value="m3">Ağrı</option>
+                    </optgroup>
+                </select>
+            </form>
+
+
+        </div>   
+        
+    </body>
+</html>

@@ -1,0 +1,47 @@
+*{
+    margin: 10px;
+    padding: 0px;
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    /* linear-gradşent belirtilen ilk renkten yavaşça belirtilen son renge geçer yani lineer ilerler */
+    /* ilk değer geçiş yönünü belirtir to anahtar sözcüğü ile de kullanılabilir ya dd derece vererekte örn: 90deg */
+    /* ayrıca her bir rengin nesnenin nereden bailayıp nereden biteceğini ayarlamak mümkün */
+    background: linear-gradient(to bottom left,red 0% 50%,yellow 60% 70%,aqua 80% 100%);
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    /* radial-gradient dairesel bir alan şeklinde renk geçişleri sağlar */
+    /* radial-gradient ve conic-gradient te at anahtar sözcüğü ile dairenin oluşma konumunu ayarlayabilirsiniz */
+    background: radial-gradient(at 30% 70%,blue 0% 17%,purple 20% 61%,red 65% 100%);
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background: conic-gradient(at top,red,blue);
+}
+
+
+/* aynı gradientlerin birde tekrar eden halleri var farkları gördüğünüz gibi renk geçişleri bittiğinde normal hallerinin aksine tekrar etmeleri */
+.box4{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(yellow 0% 20%,green 30%);
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    background: repeating-linear-gradient(yellow 0% 20%,green 30%);
+}
+
+body{
+    background-image:
+    radial-gradient(closest-side, transparent 0%, transparent 75%, #B6CC66 76%, #B6CC66 85%, #EDFFDB 86%, #EDFFDB 94%, #FFFFFF 95%, #FFFFFF 103%, #D9E6A7 104%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%),
+    radial-gradient(closest-side, transparent 0%, transparent 75%, #B6CC66 76%, #B6CC66 85%, #EDFFDB 86%, #EDFFDB 94%, #FFFFFF 95%, #FFFFFF 103%, #D9E6A7 104%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%);
+    background-size: 110px 110px;
+    background-color: #C8D3A7;
+    background-position: 0 0, 55px 55px;
+}

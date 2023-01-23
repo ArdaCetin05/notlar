@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\bin\Debug\netcoreapp3.1\PublicVePrivateMetotlar.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\bin\Debug\netcoreapp3.1\PublicVePrivateMetotlar.deps.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\bin\Debug\netcoreapp3.1\PublicVePrivateMetotlar.runtimeconfig.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\bin\Debug\netcoreapp3.1\PublicVePrivateMetotlar.runtimeconfig.dev.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\bin\Debug\netcoreapp3.1\PublicVePrivateMetotlar.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\bin\Debug\netcoreapp3.1\PublicVePrivateMetotlar.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\obj\Debug\netcoreapp3.1\PublicVePrivateMetotlar.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\obj\Debug\netcoreapp3.1\PublicVePrivateMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\obj\Debug\netcoreapp3.1\PublicVePrivateMetotlar.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\obj\Debug\netcoreapp3.1\PublicVePrivateMetotlar.AssemblyInfo.cs
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\obj\Debug\netcoreapp3.1\PublicVePrivateMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\obj\Debug\netcoreapp3.1\PublicVePrivateMetotlar.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\obj\Debug\netcoreapp3.1\PublicVePrivateMetotlar.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\PublicVePrivateMetotlar\PublicVePrivateMetotlar\obj\Debug\netcoreapp3.1\PublicVePrivateMetotlar.genruntimeconfig.cache

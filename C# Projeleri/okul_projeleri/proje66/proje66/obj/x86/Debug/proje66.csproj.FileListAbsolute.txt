@@ -1,0 +1,17 @@
+C:\Users\Bil-Lab2-PC19\Desktop\proje66\proje66\bin\Debug\proje66.exe
+C:\Users\Bil-Lab2-PC19\Desktop\proje66\proje66\bin\Debug\proje66.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\proje66\proje66\obj\x86\Debug\proje66.Form1.resources
+C:\Users\Bil-Lab2-PC19\Desktop\proje66\proje66\obj\x86\Debug\proje66.Properties.Resources.resources
+C:\Users\Bil-Lab2-PC19\Desktop\proje66\proje66\obj\x86\Debug\proje66.csproj.GenerateResource.Cache
+C:\Users\Bil-Lab2-PC19\Desktop\proje66\proje66\obj\x86\Debug\proje66.exe
+C:\Users\Bil-Lab2-PC19\Desktop\proje66\proje66\obj\x86\Debug\proje66.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\proje66\proje66\obj\x86\Debug\proje66.csprojResolveAssemblyReference.cache
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje66\proje66\bin\Debug\proje66.exe
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje66\proje66\bin\Debug\proje66.pdb
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje66\proje66\obj\x86\Debug\proje66.csproj.AssemblyReference.cache
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje66\proje66\obj\x86\Debug\proje66.Form1.resources
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje66\proje66\obj\x86\Debug\proje66.Properties.Resources.resources
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje66\proje66\obj\x86\Debug\proje66.csproj.GenerateResource.cache
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje66\proje66\obj\x86\Debug\proje66.csproj.CoreCompileInputs.cache
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje66\proje66\obj\x86\Debug\proje66.exe
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje66\proje66\obj\x86\Debug\proje66.pdb

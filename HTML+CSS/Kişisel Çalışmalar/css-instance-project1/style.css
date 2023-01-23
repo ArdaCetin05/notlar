@@ -1,0 +1,87 @@
+*{
+    font-size: 24px;
+    color: darkblue;
+    font-family: consolas;
+}
+body{
+    background-image: url(img.png);
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-color: bisque;
+
+}
+#nav{
+    background-color: rgba(255, 255, 255, 0.70);
+    width: 100%;
+    min-height: 250px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-bottom: 10px darkblue double;
+
+
+}
+#nav img{
+    border: 8px brown ridge;
+    background-image: url("img.png");
+    padding: 30px;
+    position: relative;
+    right: 10px;
+    margin-left: 30px;
+}
+#nav #pano{
+    display: inline-block;
+    min-width: 44%;
+    max-width: 34%;
+    height: 200px;
+    position: relative;
+    background-color: darkred;
+    opacity: 0.70;
+    border: 8px white double;
+    margin: 10px;
+    top: -30px;
+}
+#pano a{
+    display: inline-block;
+    position: relative;
+    margin: 4px;
+    background-color: darkblue;
+    border: 6px darkorange double;
+    color: antiquewhite;
+    max-width: 40%;
+    max-height: 20%;
+    min-width: 14%;
+    min-height: 4%;
+    text-align: center;
+    font-size: 16px;
+
+}
+#pano div{
+    border: 3px whitesmoke solid;
+    margin: 8px;
+    padding: 4px;
+}
+section#sec{
+    display: inline-block;
+    width: 68%;
+    height: 1000px;
+    background-color: whitesmoke;
+    position: absolute;
+    z-index: -1;
+    top: 270px;
+    border: 14px brown double;
+    padding: 30px;
+    margin-right: 8px;
+}
+aside#as{
+    background-color: brown;
+    width: 24%;
+    height: 1000px;
+    position: absolute;
+    right: 8px;
+    top: 270px;
+    margin-left: 8px;
+    border: 14px darkblue double;
+    color: whitesmoke;
+    z-index: -1;
+}

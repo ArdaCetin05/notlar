@@ -1,0 +1,4 @@
+C:\Users\Bil-Lab2-PC19\Desktop\Proje33\Proje33\bin\Debug\Proje33.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje33\Proje33\bin\Debug\Proje33.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje33\Proje33\obj\x86\Debug\Proje33.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje33\Proje33\obj\x86\Debug\Proje33.pdb

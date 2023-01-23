@@ -1,0 +1,7 @@
+p{
+    column-count: 6; /* paragrafı beliritlen sayıya göre ayırır tamamen responsive'dir */
+    column-width: 300px; /* ayrılan oaragraflara genişlik verir eğer ekran paragraflara verilen genişliği desteklemezse sütun sayısı azalır */
+    column-rule: 5px dashed red; /* sütunlar arası border ekler */
+    column-gap: 50px; /* sütunların aralarını açar */
+    /* kısa kullanımı columns: sütun_sayısı sütun_genişliği ; şeklindedir */
+}

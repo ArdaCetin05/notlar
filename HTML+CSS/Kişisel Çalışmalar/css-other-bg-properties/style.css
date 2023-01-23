@@ -1,0 +1,44 @@
+#box1,#box2,#box3{
+    width: 500px;
+    height: 500px;
+    background-color: brown;
+    border: 5px blue dotted;
+    margin: 10px;
+    padding: 15px;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+}
+#box1{
+    background-clip: border-box; /* border(sınır) katmanına kadar doldurur */
+}
+#box2{
+    background-clip:content-box; /* sadece content(içerik) katmanını doldurur*/
+} 
+#box3{
+    background-clip: padding-box; /* padding(sınır ile içerik arasındaki iç boşluk) katmanına kadar doldurur */
+} 
+
+#img1,#img2,#img3{
+    width: 500px;
+    height: 500px;
+    background-image: url(img.png);
+    border: 5px red dashed;
+    margin: 10px;
+    padding: 15px;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+#img1{
+    background-origin: border-box;
+}
+#img2{
+    background-origin: content-box;
+}
+#img3{
+    background-origin: padding-box;
+}

@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\bin\Debug\netcoreapp3.1\CS_diziler01.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\bin\Debug\netcoreapp3.1\CS_diziler01.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\bin\Debug\netcoreapp3.1\CS_diziler01.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\bin\Debug\netcoreapp3.1\CS_diziler01.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\bin\Debug\netcoreapp3.1\CS_diziler01.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\bin\Debug\netcoreapp3.1\CS_diziler01.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\obj\Debug\netcoreapp3.1\CS_diziler01.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\obj\Debug\netcoreapp3.1\CS_diziler01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\obj\Debug\netcoreapp3.1\CS_diziler01.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\obj\Debug\netcoreapp3.1\CS_diziler01.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\obj\Debug\netcoreapp3.1\CS_diziler01.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\obj\Debug\netcoreapp3.1\CS_diziler01.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\obj\Debug\netcoreapp3.1\CS_diziler01.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\CS_diziler01\CS_diziler01\obj\Debug\netcoreapp3.1\CS_diziler01.genruntimeconfig.cache

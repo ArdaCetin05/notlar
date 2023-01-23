@@ -1,0 +1,7 @@
+C:\Users\arda\Desktop\Proje52\Proje52\bin\Debug\Proje52.exe.config
+C:\Users\arda\Desktop\Proje52\Proje52\bin\Debug\Proje52.exe
+C:\Users\arda\Desktop\Proje52\Proje52\bin\Debug\Proje52.pdb
+C:\Users\arda\Desktop\Proje52\Proje52\obj\Debug\Proje52.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Proje52\Proje52\obj\Debug\Proje52.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Proje52\Proje52\obj\Debug\Proje52.exe
+C:\Users\arda\Desktop\Proje52\Proje52\obj\Debug\Proje52.pdb

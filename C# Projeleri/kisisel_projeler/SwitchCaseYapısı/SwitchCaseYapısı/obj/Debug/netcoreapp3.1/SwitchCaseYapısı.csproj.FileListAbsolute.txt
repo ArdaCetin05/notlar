@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\bin\Debug\netcoreapp3.1\SwitchCaseYapısı.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\bin\Debug\netcoreapp3.1\SwitchCaseYapısı.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\bin\Debug\netcoreapp3.1\SwitchCaseYapısı.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\bin\Debug\netcoreapp3.1\SwitchCaseYapısı.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\bin\Debug\netcoreapp3.1\SwitchCaseYapısı.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\bin\Debug\netcoreapp3.1\SwitchCaseYapısı.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\netcoreapp3.1\SwitchCaseYapısı.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\netcoreapp3.1\SwitchCaseYapısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\netcoreapp3.1\SwitchCaseYapısı.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\netcoreapp3.1\SwitchCaseYapısı.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\netcoreapp3.1\SwitchCaseYapısı.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\netcoreapp3.1\SwitchCaseYapısı.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\netcoreapp3.1\SwitchCaseYapısı.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\netcoreapp3.1\SwitchCaseYapısı.genruntimeconfig.cache

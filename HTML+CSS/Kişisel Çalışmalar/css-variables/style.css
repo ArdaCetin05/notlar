@@ -1,0 +1,17 @@
+:root{
+    --kirmizi:#ff0000;
+    --yesil:#00ff00;
+    --mavi:#0000ff;
+    --kalin-yazi:bolder;
+    --buyuk-yazi:40px;
+    --guzel-font:Comic Sans MS;
+}
+body{
+    background-color: var(--yesil);
+}
+p{
+    color: var(--kirmizi);
+    font-weight: var(--kalin-yazi);
+    font-size: var(--buyuk-yazi);
+    font-family: var(--guzel-font);
+}

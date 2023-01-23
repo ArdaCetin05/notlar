@@ -1,0 +1,44 @@
+*{
+    font-size: 20px;
+    font-family: consolas !important;
+    color: aliceblue;
+}
+#box{
+    background-color: blueviolet;
+    width: 600px;
+    height: 450px;
+    text-align: center;
+    border-radius: 10px;
+    background-image: url(img.png); 
+    background-size: cover;   
+}
+#box2{
+    background-color: blueviolet;
+    width: 600px;
+    height: 450px;
+    text-align: center;
+    border-radius: 10px;
+    background-image: url(img.png); 
+    background-size: contain; 
+    background-position: center; 
+    
+}
+#box3{
+    background-color: blueviolet;
+    width: 600px;
+    height: 450px;
+    text-align: center;
+    border-radius: 10px;
+    background-image: url(img.png); 
+    background-size: auto;
+    background-position: center;   
+}
+body{
+    background-color: brown;
+    background-image: url(img.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+

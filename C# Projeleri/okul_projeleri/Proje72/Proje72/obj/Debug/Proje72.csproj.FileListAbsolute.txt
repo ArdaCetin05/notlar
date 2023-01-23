@@ -1,0 +1,10 @@
+C:\Users\ardac\Desktop\Proje72\Proje72\obj\Debug\Proje72.csproj.AssemblyReference.cache
+C:\Users\ardac\Desktop\Proje72\Proje72\obj\Debug\Proje72.Form1.resources
+C:\Users\ardac\Desktop\Proje72\Proje72\obj\Debug\Proje72.Properties.Resources.resources
+C:\Users\ardac\Desktop\Proje72\Proje72\obj\Debug\Proje72.csproj.GenerateResource.cache
+C:\Users\ardac\Desktop\Proje72\Proje72\obj\Debug\Proje72.csproj.CoreCompileInputs.cache
+C:\Users\ardac\Desktop\Proje72\Proje72\bin\Debug\Proje72.exe.config
+C:\Users\ardac\Desktop\Proje72\Proje72\bin\Debug\Proje72.exe
+C:\Users\ardac\Desktop\Proje72\Proje72\bin\Debug\Proje72.pdb
+C:\Users\ardac\Desktop\Proje72\Proje72\obj\Debug\Proje72.exe
+C:\Users\ardac\Desktop\Proje72\Proje72\obj\Debug\Proje72.pdb

@@ -1,0 +1,66 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+    background-color: black;
+}
+
+#b{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+/*
+animation-name = tanımlanacak olan animasyonun adını belirler
+animation-duration = animasyonun ilk sahneden son sahneye kadar olan gerçekleşme hızını belirtir
+animation-delay = animasyon başlamadan önce ne kadar bekleyeceğini belirler
+animation-iteration-count = animasyonun kaç kere gerçekleşeceğini belirler
+animation-timing-function = animasyonun geçiş yumuşaklığı kazandırır
+animation-direction = animasyonun sahnelerininin hangi yönde geleceğini belirler
+    normal = ilk sahneden başlar son sahneye gelir, sonra en baştan başlar
+    reverse = son sahneden başlar ilk sahneye gelir , sonra tekrar eder
+    alternate = normal de olduğu gibi ilk sahneden başlar son sahneye gelir ancak sonrasında
+    en sondan en başa hareket eder, böyle devam eder
+    alternate-reverse = son kareden başlar ilk kareye gelir , ilk kareden son kareye gider , böyle devam eder
+animation-play-state = animasyonun çalışmasını veya durmasını sağlar
+    paused = animasyon durur
+    running = animasyon çalışır
+*/
+
+
+.box{
+    width: 300px;
+    height: 500px;
+    background-color: red;
+    animation: rotate-yourself 1s 3 linear 2s ;
+    transform-origin: top left;
+
+    /* animasyon bittikten sonra uygulanan stil işlemlerinin kalıp kalmayacağını belirler varsayılan
+    değer none dır yani kalmaz 
+    
+    forwards = Animasyon işlemi bittikten sonra uygulanan değerler kalır.
+    Örneğin rengi maviyse ve animasyon ile rengi kırmızıya dönmüşse, animasyon bittiğinde rengi kırmızı olarak kalır
+    
+    backwards = animasyonun ilk karesindeki bu durumda 0% olan stil işlemleri uygulanır animasyon başlamamış olsa bile
+
+    both = iki özelliğin bileşimidir
+    */
+    
+    animation-fill-mode: backwards;
+}
+@keyframes rotate-yourself {
+    0%{
+        transform: rotate(0deg);
+        background-color: aqua;
+        width: 30px;
+        height: 60px;
+    }
+    100%{
+        transform: rotate(360deg);
+        background-color: green;
+        width: 300px;
+        height: 600px;
+    }
+}

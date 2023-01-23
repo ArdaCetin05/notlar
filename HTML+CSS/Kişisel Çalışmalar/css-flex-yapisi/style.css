@@ -1,0 +1,54 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.container{
+    background-color: brown;
+    padding: 0px;
+    margin: 0px;
+    border: 3 red dashed;
+    display: flex; /* display özelliği flex olmalı */
+    flex-direction: row-reverse; /* flex yapılı kutumuzun içindeki nesnelerin nasıl konumlanıcağını belirler row (varsayılan) : satır column : sütün row-reverse : ters satır column-reverse : ters sütün */
+    align-items: center; /* nesneleri dikey olarak izalar */
+    flex-wrap: wrap; /* ekranın boyutu değiştikçe nesnelerin alt alta gelip gelmeyeceğini belirler */
+    justify-content:center; /* nesneler arası başlık verebilir veya onları yatay olarak izalayabilir */
+    /*
+        not: flex direction column olduğunda justify content dikey izalama ve align items yatay izalama olur (ters olurlar)
+    */
+    /*
+        not2: flex-flow ile flex-direction ve flex-wrap ı aynı satır içinde kullanılabilir örn: flex-flow: column no-wrap;
+    */
+    align-items:flex-start; /* itemlerı kapsayıcının boyutuna göre ayarlar */
+    /*align-content: center;*/
+    height: 700px;
+
+    
+}
+.item{
+    display: inline-block;
+    background-color: aqua;
+    border: 3px red dashed;
+    padding: 10px;
+    margin: 10px;
+}
+.item3{
+    flex-grow: 0.2;
+}
+.item5{
+    flex-grow: 0.5;
+    flex-shrink: 0;
+    flex-basis: 200px;
+    flex: 0.5 0 200px;
+}
+#box1{
+    order: 1;
+    align-self:flex-end;
+}
+#box2{
+    order: 2;
+    flex:0.5 0 300px;
+    align-self:flex-end
+}

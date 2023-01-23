@@ -1,0 +1,182 @@
+/*
+tüm <p> etiketleri üzerinde değişiklik yapar
+p{
+    color: brown;
+}
+*/
+/* class'ı metinler olan TÜM etiketler üzerinde değişiklik yapar 
+.metinler{
+    color: aqua;
+}
+*/
+
+/* id'si link olan tüm etiketler üzerinde değişiklik yapar */
+#link{
+    color: cadetblue;
+}
+
+/* id'si paraph ve class'ı metinler olan tüm elemanlar üzerinde değişiklik yapar */
+#paraph.metinler{
+    color: blueviolet;
+}
+
+
+/* 
+id'si paraph veya class'ı metinler olan tüm elemanlar üzerinde değişiklik yapar
+#paraph,.metinler{
+    color: blueviolet;
+}
+*/
+
+
+/* TÜM <ul> içerisindeki <li> içerisindeki <a> etiketleri üzerinde değişiklik yapar */
+ul li a{
+    color: rgb(226, 43, 134);
+}
+
+/* üstündeki etiketin classının metinler olan <span> etiketlerini etkiler*/
+.metinler span{ /* not: düz metinleri etkilemez */
+    color: green;
+}
+
+/* <a> etiketi olan ve class'ı metinler olan etiketleri etkiler */
+a.metinler{
+    color: yellow;
+}
+
+/* ul içindeki li içindeki class'ı link2 olan <a> etiketlerini etkiler */
+
+ul li a.link2{
+    font-size: 30px;
+}
+
+/* id'Si parent içindeki etiketin id'si child olan tüm etiketleri etkiler */
+#parent #child{
+    color: burlywood;
+    font-size: 30px;
+}
+
+/* TÜM elemanları seçmek için * kullanılır */
+/* CSS çalışma hiyerarşisi yukarıdan aşağıya doğrudur yani ilk önce yukarıdaki kodlar sonra aşağıdaki kodlar okunur ve aynı özelliğe etki eden
+    iki stilden yalnızca en son yazılan çalışır
+    örnek: 
+    eleman{
+        color: red;
+    }
+    eleman{
+        color: blue;
+    }
+    bu durumda yazıya mavi rengini veren kod kırmızının üstüne geleceğinden yazının rengi mavi olacaktır
+*/
+/*
+    ancak !important ile üzerine başka bir stil gelse bile her zaman o çalışacaktır 
+*/
+*{
+    font-family: Consolas !important;
+}
+a{
+    font-family: comic sans ms;
+}
+div .metin *{ /* şeklinde kullanıldığında div'lerin içerisindeki class özelliği metin olanların içindeki TÜM elemanların yazı rengi kırmızı olur */
+    color:red;
+}
+
+
+h1+h2{ /* bu operatör h1 den sonra gelen h2 ye color uygular bu operatörün çalışması için h2 nin hemen h1den sonra gelmesi gerekir */
+    color: brown; 
+}
+
+
+span.m2>p + p{ /* bu şekilde de kullanılabilir */
+    color: aqua;
+}
+
+h4 ~ p{ /* ~(tilde) operatörü + operatörü gibi bir kardeş seçicidir ancak + nın aksine peş peşe gelmesine gerek yoktur */
+    /* + da h1 + h2 dediğimiz zaman stilin çalışabilmesi için h2 nin h1 den sonra gelemsi gerekir */
+    /* ancak tilde de h1~h2 dediğimiz zaman örnek olarak <h1>metin</h1>
+                                                          <h2>metin2</h2>
+                                                          <h2>metin3</h2>
+    eğer + operatörü olsaydı sadece h1 den sonra gelen ilk h2 yi seçecekti ancak tilde h1 den sonra gelen tüm h2 leri seçer*/
+    color: blueviolet;
+}
+
+/* özellik seçiciler etiketlerin sahip olduğu özelliklere göre seçim yapar*/
+
+input[type]{
+    color:aqua;
+}
+/*
+    [özellik]{
+        still
+    }
+    şeklinde kullanıldığında "özellik" özelliğine sahip olan tüm etiketleri seçer
+*/
+
+input[type="email"]{ /* bu şekilde kullanıldığında type özelliği "email" olan input etiketlerini seçer */
+    color: red;
+}
+
+
+
+/* bu şekilde kullanım type değerinde "arda" geçen tüm etiketleri seçer yukardakinin aksine type'ın arda olması gerekmez içerisinde arda geçmesi yeterlidir */
+[type~="arda"]{ /*not: type~="ardacetin" şekilde yazmak işe yaramayacaktır type="arda cetin" olduğunda geçerli kullanımdır -(tire) ile ayırmakta geçerli değildir!*/
+    background-color: blue;
+}
+/*
+    özellik *= değer seçiciside ~= aynı işi yapar ancak kelimelerin bitişik yazılmasını umursamaz
+    üste yazılan not'a olduğu gibi type ~= "ardacetin" yazmak işe yaramayacaktır çünkü kelime bitişiktir ancak *= etiketi için
+    bu durum geçerli değildir
+*/
+[type*="arda"]{
+    background-color: red;
+}
+
+div[class|="box"]{ 
+    /*
+    bu seçicide etiket[özellik="değer"] gibi özelliği değere eşit olan etiketleri seçer ancak ufak bir farkla
+    bu etiket sadece class ı box olanları değil ayrıca class ı box ile başlayanları da seçer örnek olarak
+    class = "box-10", class = "box-arda" class = "box-osman" buradaki püf noktalar box kelimesinin en başta olması ve
+    box ın diğer kelimeler ile - işareti ile ayrılması bu olmadığı zaman seçici çalışmayacaktır class = "boxarda"
+    not: sadece -(tire) kullanıralar çalışır class="box arda" da yanlış bir kullanımdır 
+    */
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border: 2px blue dashed;
+    margin: 10px;
+}
+div[class^="kutu"]{
+    /*
+    bu seçicide |= seçicisi gibi class özelliği kutu olan veya kutu ile başlayan div etiketlerini seçer
+    ancak |= aksine aranan değerin bitişik yazılmasına veya -(tire) ile yazılmasına takılmaz yine de seçer
+    örnek:
+    class |= "kutu" dediğimiz zaman aranan değer kutudur yani class ı kutu olanları ya da kutu- olanları seçer yani sözcük bitişik olmamalı ve
+    -(tire) ile ayrılmalıdır
+    ancak ^= seçicisi sözcük bitişik olsa bile -(tire) kullanılmasa bile seçebilir
+    */
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 3px red dotted;
+    margin: 20px;
+}
+
+div[class$="obje"]{
+    /*
+    ^= seçicisinin tam ilk ten değil son kelimeden başlayan halidir ^= olduğu gibi kelimelerin bitişik olup olmamasını umursamaz
+    buradaki püf nokta her zaman sondan okumaya başlamasıdır
+    */
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border: 3px blueviolet dotted;
+    margin: 20px;
+}
+
+/*css te seçiciler büyük küçük harflere karşı duyarlıdır bunu kaldırmak için nitelik seçicinin sonuna 'i' eklenmelidir*/
+
+div[class = "BOX" i]{ /* normalde bu şekilde yazmak işe  yaramayacaktır ancak sondaki i sayesinde büyük küçük harf duyarlılığı kalktı*/
+    background-color: bisque;
+}
+

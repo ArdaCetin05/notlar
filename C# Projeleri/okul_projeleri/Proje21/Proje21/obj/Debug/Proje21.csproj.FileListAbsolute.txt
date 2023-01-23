@@ -1,0 +1,7 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje21\Proje21\bin\Debug\Proje21.exe.config
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje21\Proje21\bin\Debug\Proje21.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje21\Proje21\bin\Debug\Proje21.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje21\Proje21\obj\Debug\Proje21.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje21\Proje21\obj\Debug\Proje21.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje21\Proje21\obj\Debug\Proje21.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje21\Proje21\obj\Debug\Proje21.pdb

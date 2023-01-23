@@ -1,0 +1,4 @@
+C:\Users\Bil-Lab2-PC19\Desktop\Proje35\Proje35\bin\Debug\Proje35.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje35\Proje35\bin\Debug\Proje35.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje35\Proje35\obj\x86\Debug\Proje35.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje35\Proje35\obj\x86\Debug\Proje35.pdb

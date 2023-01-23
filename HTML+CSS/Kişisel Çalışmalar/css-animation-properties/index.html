@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <button id="b" onclick="durdur()">durdur/sürdür</button>
+    <div class="box" id="box"></div>
+
+
+    <script>
+        var durum = true;
+        var box = document.querySelector("body *:nth-child(2)");
+        
+        function durdur(){
+            if(durum){
+                box.style.animationPlayState="paused";
+                durum=false;
+            }
+            else{
+                box.style.animationPlayState="running";
+                durum=true;
+            }
+        }
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\Bil-Lab2-PC19\Desktop\Proje49\Proje49\bin\Debug\Proje49.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje49\Proje49\bin\Debug\Proje49.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje49\Proje49\obj\x86\Debug\Proje49.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje49\Proje49\obj\x86\Debug\Proje49.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje49\Proje49\obj\x86\Debug\Proje49.csprojResolveAssemblyReference.cache

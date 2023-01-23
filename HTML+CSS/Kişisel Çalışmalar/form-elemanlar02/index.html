@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>form elemanları</title>
+        <style>
+            form{
+                border: 4px solid;
+                background-color: brown;
+                color: bisque;
+                font-size: 20px;
+                font-family: "Comic Sans MS";
+            }
+        </style>
+        <script>
+            alert("merhaba")
+        </script>
+    </head>
+    <body>
+        <form action="#" border="10px" method="get" enctype="multipart/form-data">
+            <fieldset>
+                <legend>kayıt işlemi</legend>
+            <label>
+            adınız :<input type="text" name="ad" value="arda" readonly></label> <br>
+            <label>
+            soyadınız :<input type="text" name="soyad" required maxlength="10" minlength="3" placeholder="soyadınızı giriniz..." autocomplete="on"></label>
+            <textarea name="yorum"  cols="10" rows="7" placeholder="yorum yazın"></textarea>
+            <hr>
+            erkek
+            <input type="radio" name="cinsiyet" value="erkek" required>
+            kadın
+            <input type="radio" name="cinsiyet" value="kadin">
+            <input type="color" name="renk" >
+            <input type="range" min="5" max="50" step="5" >
+            <br> <hr>
+            <input type="file" accept="image/*" multiple name="dosyalar[]" value="resim dosyalarını seç">
+            <input type="submit" value="yolla" style="border-radius: 10px;border: 1px solid violet;background-color: violet;color: aqua;">
+            <button type="reset" value="temizle">
+                <img src="" alt="sıfırla" width="30" height="6"> 
+            </button>
+            <input type="date" id="tarihmin" name="tarihmin" min="2021-05-01">
+            <inputtype="number" id="aralik" name="aralik" min="1" max="5" placeholder="max">
+            <input type="password" pattern=".{6,}" title="Altı veya daha fazla" placeholder="daha
+            fazla">
+            <input type="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" placeholder = "Şifre">
+            <input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" placeholder ="Eposta">
+            <input type="url" pattern="https?://.+" placeholder="http:// dâhil edin">
+            <input type="number" step="2" placeholder="Çift Sayı">
+            <input list="hazirliste"><datalist id="hazirliste">
+            <option value="Öğretmen">
+            <option value="Öğrenci">
+            <option value="Veli">
+            </datalist>
+            <hr> <br>
+            <select name="rakamlar" multiple>
+                <optgroup label="1-3">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                </optgroup>
+                <optgroup label="4-6">
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                </optgroup>
+                <optgroup label="7-9">
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                </optgroup>
+            </select>
+            <label for="meter">meter etiketi
+                <meter name="meter" min="0" low="50" high="70" max="100"value="60"> 60</meter>
+            </label>
+            <label for="osman"> progress bar</label>
+            <progress max="100" value="50"></progress>
+            </fieldset>
+
+        </form>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\ardac\Desktop\proje58\proje58\bin\Debug\proje58.exe.config
+C:\Users\ardac\Desktop\proje58\proje58\bin\Debug\proje58.exe
+C:\Users\ardac\Desktop\proje58\proje58\bin\Debug\proje58.pdb
+C:\Users\ardac\Desktop\proje58\proje58\obj\Debug\proje58.csproj.AssemblyReference.cache
+C:\Users\ardac\Desktop\proje58\proje58\obj\Debug\proje58.Form1.resources
+C:\Users\ardac\Desktop\proje58\proje58\obj\Debug\proje58.Properties.Resources.resources
+C:\Users\ardac\Desktop\proje58\proje58\obj\Debug\proje58.csproj.GenerateResource.cache
+C:\Users\ardac\Desktop\proje58\proje58\obj\Debug\proje58.csproj.CoreCompileInputs.cache
+C:\Users\ardac\Desktop\proje58\proje58\obj\Debug\proje58.exe
+C:\Users\ardac\Desktop\proje58\proje58\obj\Debug\proje58.pdb

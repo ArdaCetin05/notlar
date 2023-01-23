@@ -1,0 +1,7 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje29\Proje29\bin\Debug\Proje29.exe.config
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje29\Proje29\bin\Debug\Proje29.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje29\Proje29\bin\Debug\Proje29.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje29\Proje29\obj\Debug\Proje29.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje29\Proje29\obj\Debug\Proje29.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje29\Proje29\obj\Debug\Proje29.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje29\Proje29\obj\Debug\Proje29.pdb

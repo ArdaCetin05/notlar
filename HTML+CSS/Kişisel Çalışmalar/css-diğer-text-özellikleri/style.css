@@ -1,0 +1,21 @@
+#p1{
+    white-space: pre; /* metin deki boşlukları yönetir örn alt satıra geçip geçmeyeceği */
+    text-transform: lowercase; /* metindeki harflere şekil verir örn tüm harflerin büyük harfe dönüşmesi */
+    text-decoration: wavy red underline; /* metinleri süsler örn alt çizgi */
+    text-indent: 200px; /* metinin ilk satırına girinti ekler */
+    font: 30px/1.9 arial; /* font-size , line-height , font-family nin kısaltması */
+    font-variant: small-caps; /* tüm harfleri büyük harf yapar ancak boyutları küçülür */
+    text-align: center; /* yazıyı izalar */
+    word-spacing: 20px; /* kelimeler arası boşluğuk miktarını belirler */
+    letter-spacing: 5px; /* harfler arası boşluğuk miktarını belirler */
+    word-break: break-all; /* fazlalık satırları alta geçirir */
+    /*overflow-wrap: break-word; word-break: break-all ile aynıdır*/
+    hyphens: auto; /* buda kelimeleri alt alta geçirir ancak anlamlarını olabildiğince korur daha iyi çalışması için html
+    etiketinin lang özelliği metin de kullanılan dil ile aynı olmalıdır */
+}
+
+#p2{
+    font: 45px sans-serif;
+    word-break: break-all;
+    text-shadow: 4px -1px 1px  red,-4px 1px 1px blue; /* yazılara gölge verir */
+}

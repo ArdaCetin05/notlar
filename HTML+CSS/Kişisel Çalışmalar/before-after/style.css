@@ -1,0 +1,15 @@
+div.kutu{
+    background-color: aqua;
+}
+
+div.kutu::after{ /* öğenin sonrasına içerik ekler*/
+    content: ' dünya ';
+    color: red;
+    border: 2px darkblue dashed;
+}
+div.kutu::before{ /* öğenin öncesine içerik ekler */
+    content: attr(class); /* attr() seçilen öğenin herhangi bir özelliğini alır ve o özelliğin değerini döndürür*/
+    color: blue;
+    background-color: brown;
+}
+/* not: after ve before etiket başına bir kere kullanılabilir */

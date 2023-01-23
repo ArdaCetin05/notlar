@@ -1,0 +1,34 @@
+:root{
+    --altin:rgb(255,150,0);
+    --altin1:rgb(255,180,90);
+    --altin2:rgb(255,190,150);
+}
+
+
+th{
+    background-color: var(--altin);
+}
+table tr:nth-child(odd){
+    background-color: var(--altin1);
+}
+table tr:nth-child(even){
+    background-color: var(--altin2);
+}
+table tr{
+    transition: all 1s linear;
+}
+table{
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+table tr:hover{
+    background-color: orangered;
+    color: white;
+}
+table tr td{
+    transition: all 300ms linear;
+}
+table tr td:hover{
+    background-color:red;
+}

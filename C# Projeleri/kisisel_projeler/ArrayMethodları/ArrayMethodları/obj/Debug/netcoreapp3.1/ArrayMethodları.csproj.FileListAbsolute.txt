@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\bin\Debug\netcoreapp3.1\ArrayMethodları.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\bin\Debug\netcoreapp3.1\ArrayMethodları.deps.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\bin\Debug\netcoreapp3.1\ArrayMethodları.runtimeconfig.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\bin\Debug\netcoreapp3.1\ArrayMethodları.runtimeconfig.dev.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\bin\Debug\netcoreapp3.1\ArrayMethodları.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\bin\Debug\netcoreapp3.1\ArrayMethodları.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\obj\Debug\netcoreapp3.1\ArrayMethodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\obj\Debug\netcoreapp3.1\ArrayMethodları.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\obj\Debug\netcoreapp3.1\ArrayMethodları.AssemblyInfo.cs
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\obj\Debug\netcoreapp3.1\ArrayMethodları.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\obj\Debug\netcoreapp3.1\ArrayMethodları.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\obj\Debug\netcoreapp3.1\ArrayMethodları.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\obj\Debug\netcoreapp3.1\ArrayMethodları.genruntimeconfig.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\ArrayMethodları\ArrayMethodları\obj\Debug\netcoreapp3.1\ArrayMethodları.csproj.AssemblyReference.cache

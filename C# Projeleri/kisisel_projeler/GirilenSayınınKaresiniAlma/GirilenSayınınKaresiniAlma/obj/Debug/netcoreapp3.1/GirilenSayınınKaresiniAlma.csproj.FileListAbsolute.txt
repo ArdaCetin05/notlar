@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\bin\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\bin\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\bin\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\bin\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\bin\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\bin\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\obj\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\obj\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\obj\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\obj\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\obj\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\obj\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\obj\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayınınKaresiniAlma\GirilenSayınınKaresiniAlma\obj\Debug\netcoreapp3.1\GirilenSayınınKaresiniAlma.genruntimeconfig.cache

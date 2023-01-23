@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\bin\Debug\netcoreapp3.1\goto deyimi.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\bin\Debug\netcoreapp3.1\goto deyimi.deps.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\bin\Debug\netcoreapp3.1\goto deyimi.runtimeconfig.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\bin\Debug\netcoreapp3.1\goto deyimi.runtimeconfig.dev.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\bin\Debug\netcoreapp3.1\goto deyimi.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\bin\Debug\netcoreapp3.1\goto deyimi.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\obj\Debug\netcoreapp3.1\goto deyimi.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\obj\Debug\netcoreapp3.1\goto deyimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\obj\Debug\netcoreapp3.1\goto deyimi.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\obj\Debug\netcoreapp3.1\goto deyimi.AssemblyInfo.cs
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\obj\Debug\netcoreapp3.1\goto deyimi.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\obj\Debug\netcoreapp3.1\goto deyimi.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\obj\Debug\netcoreapp3.1\goto deyimi.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\goto deyimi\goto deyimi\obj\Debug\netcoreapp3.1\goto deyimi.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        function popup(){
+            document.getElementById("bg").style.display="flex";
+        }
+        function cik(){
+            document.getElementById("bg").style.display="none";
+        }
+    </script>
+</head>
+<body>
+    <div class="popup-bg" id="bg">
+        <div class="popup-screen">
+            <span class="menu"> <span class="exit" onclick="cik()" ></span> </span>
+            <div class="container">
+
+                <label>
+                    <input type="checkbox">
+                    <span></span>
+                </label>
+            </div>
+        </div>
+    </div>
+    <button onclick="popup()">popup çıkar</button>
+    
+</body>
+</html>

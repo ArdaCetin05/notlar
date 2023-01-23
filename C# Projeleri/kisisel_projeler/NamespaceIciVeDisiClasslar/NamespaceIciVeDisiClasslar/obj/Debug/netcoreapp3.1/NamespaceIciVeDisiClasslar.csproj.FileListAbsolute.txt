@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\bin\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\bin\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.deps.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\bin\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.runtimeconfig.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\bin\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.runtimeconfig.dev.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\bin\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\bin\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\obj\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\obj\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\obj\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\obj\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.AssemblyInfo.cs
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\obj\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\obj\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\obj\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\NamespaceIciVeDisiClasslar\NamespaceIciVeDisiClasslar\obj\Debug\netcoreapp3.1\NamespaceIciVeDisiClasslar.genruntimeconfig.cache

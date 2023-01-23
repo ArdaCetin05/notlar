@@ -1,0 +1,4 @@
+C:\Users\Bil-Lab2-PC19\Desktop\Proje45\Proje45\bin\Debug\Proje45.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje45\Proje45\bin\Debug\Proje45.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje45\Proje45\obj\x86\Debug\Proje45.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje45\Proje45\obj\x86\Debug\Proje45.pdb

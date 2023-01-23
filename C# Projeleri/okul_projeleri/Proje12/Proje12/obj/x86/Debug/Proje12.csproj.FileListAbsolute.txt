@@ -1,0 +1,4 @@
+C:\Users\Bil-Lab2-PC19\Desktop\Proje12\Proje12\bin\Debug\Proje12.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje12\Proje12\bin\Debug\Proje12.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje12\Proje12\obj\x86\Debug\Proje12.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje12\Proje12\obj\x86\Debug\Proje12.pdb

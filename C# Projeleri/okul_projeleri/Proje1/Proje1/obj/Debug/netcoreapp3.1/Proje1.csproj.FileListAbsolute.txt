@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\Proje1\Proje1\bin\Debug\netcoreapp3.1\Proje1.exe
+C:\Users\arda\Desktop\Proje1\Proje1\bin\Debug\netcoreapp3.1\Proje1.deps.json
+C:\Users\arda\Desktop\Proje1\Proje1\bin\Debug\netcoreapp3.1\Proje1.runtimeconfig.json
+C:\Users\arda\Desktop\Proje1\Proje1\bin\Debug\netcoreapp3.1\Proje1.runtimeconfig.dev.json
+C:\Users\arda\Desktop\Proje1\Proje1\bin\Debug\netcoreapp3.1\Proje1.dll
+C:\Users\arda\Desktop\Proje1\Proje1\bin\Debug\netcoreapp3.1\Proje1.pdb
+C:\Users\arda\Desktop\Proje1\Proje1\obj\Debug\netcoreapp3.1\Proje1.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Proje1\Proje1\obj\Debug\netcoreapp3.1\Proje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\Proje1\Proje1\obj\Debug\netcoreapp3.1\Proje1.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\Proje1\Proje1\obj\Debug\netcoreapp3.1\Proje1.AssemblyInfo.cs
+C:\Users\arda\Desktop\Proje1\Proje1\obj\Debug\netcoreapp3.1\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Proje1\Proje1\obj\Debug\netcoreapp3.1\Proje1.dll
+C:\Users\arda\Desktop\Proje1\Proje1\obj\Debug\netcoreapp3.1\Proje1.pdb
+C:\Users\arda\Desktop\Proje1\Proje1\obj\Debug\netcoreapp3.1\Proje1.genruntimeconfig.cache

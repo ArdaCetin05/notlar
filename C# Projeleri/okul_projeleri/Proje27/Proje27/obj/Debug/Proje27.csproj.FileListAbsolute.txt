@@ -1,0 +1,7 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje27\Proje27\bin\Debug\Proje27.exe.config
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje27\Proje27\bin\Debug\Proje27.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje27\Proje27\bin\Debug\Proje27.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje27\Proje27\obj\Debug\Proje27.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje27\Proje27\obj\Debug\Proje27.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje27\Proje27\obj\Debug\Proje27.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje27\Proje27\obj\Debug\Proje27.pdb

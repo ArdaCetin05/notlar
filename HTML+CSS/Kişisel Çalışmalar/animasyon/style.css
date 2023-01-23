@@ -1,0 +1,109 @@
+div.kutu{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    position: absolute;
+    animation: git 4.5s cubic-bezier(0.25, 0.46, 0.63, 0.9) infinite;
+    border:0px red dashed;
+    background-clip: content-box;
+
+}
+@keyframes git{
+    0%{
+        top: 0;
+        left: 0;
+        background-color: lightblue;
+        border-width: 2px;
+        transform: rotate(0deg);
+    }
+    5%{
+        left: 100px;
+        background-color: rgb(92, 92, 255);
+        border-width: 6px;
+        transform: rotate(60deg);
+
+    }
+    
+    10%{
+        left: 250px;
+        background-color: rgb(92, 92, 255);
+        border-width: 6px;
+        transform: rotate(60deg);
+
+    }
+    15%{
+        left: 100px;
+        background-color: rgb(92, 92, 255);
+        border-width: 6px;
+        transform: rotate(60deg);
+
+    }
+    25%{
+        top: 700px;
+        left: 0;
+        background-color: rgb(92, 92, 255);
+        border-width: 6px;
+        transform: rotate(60deg);
+
+    }
+    50%{
+        top: 700px;
+        left: 700px;
+        background-color: rgb(62, 62, 255);
+        border-width: 10px;
+        transform: rotate(120deg);
+    }
+    75%{
+        top: 0px;
+        left: 700px;
+        background-color: blue;
+        border-width: 14px;
+        transform: rotate(180deg);
+    }
+        
+    
+    100%{
+        top: 0px;
+        left:0px;
+        background-color: darkblue;
+        border-width: 18px;
+        transform: rotate(240deg);
+    }
+}
+div:nth-child(1){
+    animation-delay: 250ms;
+}
+div:nth-child(2){
+    animation-delay: 400ms;
+}
+div:nth-child(3){
+    animation-delay: 650ms;
+}
+div:nth-child(4){
+    animation-delay: 800ms;
+}
+div:nth-child(5){
+    animation-delay: 950ms;
+}
+div:nth-child(6){
+    animation-delay: 1100ms;
+}
+div:nth-child(7){
+    animation-delay: 1250ms;
+}
+div:nth-child(8){
+    animation-delay: 1400ms;
+}
+div:nth-child(9){
+    animation-delay: 950ms;
+}
+div:nth-child(10){
+    animation-delay: 1100ms;
+}
+div:nth-child(11){
+    animation-delay: 1250ms;
+}
+div:nth-child(12){
+    animation-delay: 1400ms;
+}
+

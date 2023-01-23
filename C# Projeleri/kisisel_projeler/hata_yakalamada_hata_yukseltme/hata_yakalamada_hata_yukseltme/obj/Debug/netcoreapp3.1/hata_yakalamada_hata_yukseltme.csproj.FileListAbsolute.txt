@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\bin\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\bin\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.deps.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\bin\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.runtimeconfig.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\bin\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.runtimeconfig.dev.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\bin\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\bin\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\obj\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\obj\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\obj\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\obj\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.AssemblyInfo.cs
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\obj\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\obj\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\obj\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\hata_yakalamada_hata_yukseltme\hata_yakalamada_hata_yukseltme\obj\Debug\netcoreapp3.1\hata_yakalamada_hata_yukseltme.genruntimeconfig.cache

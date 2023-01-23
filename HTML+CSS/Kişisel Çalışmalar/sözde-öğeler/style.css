@@ -1,0 +1,130 @@
+p#p1{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+}
+
+p#p1::first-letter{ /* first-letter öğesi sadece ilk harfi seçer */
+    color: darkred;
+    font-size: 4em;
+}
+
+p#p2::first-line{ /* sadece ilk satırı seçer */
+    background-color: aqua;
+}
+
+p#p3::selection{ /* imleç ile ya da shift + yön tuşları ile seçim yapıldığında çalışacak sözde öğe */
+    background-color: blue;
+    color: red;
+}
+input[type="text"]{
+    color: blue;
+    font-size: 20px;
+}
+input[type="text"]::placeholder{ /* placeholder niteliğindeki yazıya stil işlemi uygulamak için kullanılır */
+    color: red;
+    font-size: 1.5em;
+    font-family: Consolas;
+}
+button.b1:active{ /* belirtilen öğe aktif olduğunda çalışır */
+    background-color: red;
+    color: purple;
+}
+input[type="checkbox"]:checked + label{ /* nesne işaretlendiğinde çalışır örneğin checkbox a tıklandığında işaretlenmesi */
+    color: red;
+}
+
+ol li:first-child{ /* ilk elemanı seçer */
+    background-color: aqua; /*not : belirtilen öğenin ebeveyn etiketinin içindeki ilk öğe olmalı yoksa kod çalışmaz. Bu durum last-child içinde geçerlidir*/
+}
+/*
+buradaki olay eğer ol etiketinin içindeki li ler ilk sırada yer alıyorsa first-child etkinleşir ancak li lerden önce başka bir etiket geliyorsa li leri seçen first-child
+sınıfı geçersiz olur ve stiller çalışmaz
+ancak first-of-type adlı sınıf seçici seçilmek istenilen etiketin etiket grubundaki ilk olanı seçer yani
+
+<ol>
+    <p>lorem</p>
+    <li>lorem</li>
+    <li>lorem</li>
+    <li>lorem</li>
+
+</ol>
+
+eğer biz bunu first-child ile seçmeye kalkarsak hiçbirşey olmayacaktır çünkü ol etiketinin içindeki li etiketleri ol etiketinin ilk sırasında değil ilk etiket p etiketi
+ol li:first-child{
+    color:red;
+}
+ancak
+ol li:first-of-type{
+    color:red;
+}
+bu şekilde seçtiğimizde ol etiketinin ilk sırasıda yer almasa bile en üste kalan li etiketine stil uygulayacaktır
+
+*/
+ol li:last-child{ /* son elemanı seçer */
+    background-color: brown;
+}
+
+ul[type="square"] li:first-of-type{
+    background-color: rebeccapurple;
+}
+
+ul[type="square"] li:last-of-type{
+    background-color: orangered;
+}
+
+
+
+
+/*
+nth-child adı üzerinde olan bir sınıf seçicidir n yani bilinmeyen.ci değeri seçer
+örneğin 5 sayırdan oluşan bir tablo düşünün bu tablonun 3. satırına nasıl erişebilirsiniz tabi ki nth-child(3) ile
+nth-child() parantezlerine 1 ile var olan eleman sayısı kadar satı yazılabilir yani 5 satırı olan bir tablo düşünün 1 ile 5 arasında bir değer yazabilirsiniz
+
+
+ayrıca nth-child bazı özel değerlerde alabilir
+
+örneğin ilk satırın rengini sarı yapsın sonra 3. satırı sarı yapsın ve böyle tek sayılı satırları boyamaya devam etsin istiyorsanız
+
+li:nth-child(odd){
+    color:yellow;
+}
+
+şeklinde kullanabilirsiniz bu şekilde yaptığınızda sadece tek sayılı satırları color'unu sarı yapacaktır
+
+eğer siz çift sayılı sütunların rengini değiştirmek istersinizde odd yerine even yazmanız yeterli olacaktır
+
+li:nth-child(even){
+    background-color:blue;
+}
+
+buda 2. , 4. , 6. vb. satırların arka planını mavi yapacaktır
+
+eğer siz 3'lü veya 4'lü şekilde yapmak istiyorsanız
+
+:nth-child(3n) demeniz yeterlidir
+*/
+ul[type="circle"] li:nth-child(1n){
+    background-color: orange;
+}
+
+ul[type="circle"] li:nth-child(2n){
+    background-color: turquoise;
+}
+ul[type="circle"] li:nth-child(3n){
+    background-color: red;
+}
+
+ul[type="circle"] li:nth-child(5){
+    background-color: pink;
+}
+ul[type="circle"] li:nth-child(4n+1){ /* +1 değeri sayesinde hangi satırdan itibaren saymasına başlat eğer +2 olsaydı 2. satırdan itibaren sayıcaktı */
+    background-color: darkkhaki;
+}
+
+ul[type="circle"] li:nth-child(n+5){ /* bu şekilde kullanımda 5. elemandan itibaren tüm elemanları seçer */
+    background-color: pink;
+}
+
+ul[type="circle"] li:nth-child(-n+6){ /* bu kullanımda sadece 6. eleman ve öncesini seçer */
+    background-color: red;
+}

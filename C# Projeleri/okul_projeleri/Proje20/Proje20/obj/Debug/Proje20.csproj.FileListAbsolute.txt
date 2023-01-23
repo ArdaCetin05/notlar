@@ -1,0 +1,7 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje20\Proje20\bin\Debug\Proje20.exe.config
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje20\Proje20\bin\Debug\Proje20.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje20\Proje20\bin\Debug\Proje20.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje20\Proje20\obj\Debug\Proje20.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje20\Proje20\obj\Debug\Proje20.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje20\Proje20\obj\Debug\Proje20.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje20\Proje20\obj\Debug\Proje20.pdb

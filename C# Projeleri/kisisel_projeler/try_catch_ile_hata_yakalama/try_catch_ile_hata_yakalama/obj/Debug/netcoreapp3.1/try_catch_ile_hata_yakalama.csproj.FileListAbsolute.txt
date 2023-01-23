@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\bin\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\bin\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.deps.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\bin\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.runtimeconfig.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\bin\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.runtimeconfig.dev.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\bin\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\bin\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\obj\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\obj\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\obj\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\obj\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.AssemblyInfo.cs
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\obj\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\obj\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\obj\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\try_catch_ile_hata_yakalama\try_catch_ile_hata_yakalama\obj\Debug\netcoreapp3.1\try_catch_ile_hata_yakalama.genruntimeconfig.cache

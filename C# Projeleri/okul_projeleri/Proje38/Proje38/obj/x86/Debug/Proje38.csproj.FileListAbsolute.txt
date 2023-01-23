@@ -1,0 +1,10 @@
+C:\Users\Bil-Lab2-PC19\Desktop\Proje38\Proje38\bin\Debug\Proje38.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje38\Proje38\bin\Debug\Proje38.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje38\Proje38\obj\x86\Debug\Proje38.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje38\Proje38\obj\x86\Debug\Proje38.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje38\Proje38\bin\Debug\Proje38.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje38\Proje38\bin\Debug\Proje38.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje38\Proje38\obj\x86\Debug\Proje38.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje38\Proje38\obj\x86\Debug\Proje38.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje38\Proje38\obj\x86\Debug\Proje38.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje38\Proje38\obj\x86\Debug\Proje38.pdb

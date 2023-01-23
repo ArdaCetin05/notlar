@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\bin\Debug\netcoreapp3.1\loginApp.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\bin\Debug\netcoreapp3.1\loginApp.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\bin\Debug\netcoreapp3.1\loginApp.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\bin\Debug\netcoreapp3.1\loginApp.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\bin\Debug\netcoreapp3.1\loginApp.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\bin\Debug\netcoreapp3.1\loginApp.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\obj\Debug\netcoreapp3.1\loginApp.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\obj\Debug\netcoreapp3.1\loginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\obj\Debug\netcoreapp3.1\loginApp.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\obj\Debug\netcoreapp3.1\loginApp.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\obj\Debug\netcoreapp3.1\loginApp.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\obj\Debug\netcoreapp3.1\loginApp.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\obj\Debug\netcoreapp3.1\loginApp.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\loginApp\loginApp\obj\Debug\netcoreapp3.1\loginApp.genruntimeconfig.cache

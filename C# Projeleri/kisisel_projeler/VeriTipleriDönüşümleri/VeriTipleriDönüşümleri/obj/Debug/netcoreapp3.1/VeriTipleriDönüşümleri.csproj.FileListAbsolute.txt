@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\bin\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\bin\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\bin\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\bin\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\bin\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\bin\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\obj\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\obj\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\obj\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\obj\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\obj\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\obj\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\obj\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriDönüşümleri\VeriTipleriDönüşümleri\obj\Debug\netcoreapp3.1\VeriTipleriDönüşümleri.genruntimeconfig.cache

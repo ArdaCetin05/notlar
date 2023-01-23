@@ -1,0 +1,48 @@
+.border-styles{
+    display: inline-block;
+    background-color: brown;
+    text-align: center;
+    color: whitesmoke;
+    width: 300px;
+    height: 100px;
+    margin: 15px;
+    font-size: 26px;
+}
+#box1{
+    border: 10px blue solid;
+}
+#box2{
+    border: 10px blue dashed;
+}
+#box3{
+    border: 10px blue dotted;
+}
+#box4{
+    border: 10px blue double;
+}
+#box5{
+    border: 10px blue groove;
+}
+#box6{
+    border: 10px blue ridge;
+}
+#box7{
+    border: 10px blue inset;
+}
+#box8{
+    border: 10px blue outset;
+}
+#box9{
+    border: 10px blue hidden;
+}
+#box10{
+    border: 10px blue none;
+}
+
+#mixed-box{
+    font-size: 14px;
+    border-top: 6px red double;
+    border-left: 10px blue groove;
+    border-bottom: 7px violet inset;
+    border-right: 9px green dotted;
+}

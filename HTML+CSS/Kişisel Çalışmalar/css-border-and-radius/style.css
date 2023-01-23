@@ -1,0 +1,29 @@
+#box{
+    width: 500px;
+    height: 460px;
+    background: rgba(150,23,13,0.95);
+    font-size: 20px;
+    font-family: Consolas;
+    color: bisque;
+    text-align: center;
+    border: 14px;
+    border-color: bisque;
+    border-style:double;
+    border-radius: 20px;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    padding: 100px;
+
+}
+#circle{
+    width: 600px;
+    height: 600px;
+    background: rgba(70,14,120,0.5) url(img.png) no-repeat;
+    font-size: 20px;
+    font-family: Consolas;
+    color: rgb(150, 41, 113);
+    text-align: center;
+    border: 15px blue solid;
+    border-radius: 600px;
+
+}

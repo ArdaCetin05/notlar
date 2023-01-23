@@ -1,0 +1,7 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje24\Proje24\bin\Debug\Proje24.exe.config
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje24\Proje24\bin\Debug\Proje24.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje24\Proje24\bin\Debug\Proje24.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje24\Proje24\obj\Debug\Proje24.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje24\Proje24\obj\Debug\Proje24.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje24\Proje24\obj\Debug\Proje24.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje24\Proje24\obj\Debug\Proje24.pdb

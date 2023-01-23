@@ -1,0 +1,42 @@
+div#k1{
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    clip-path: polygon(0% 20%,
+                  60% 20%,
+                  60% 0%,
+                 100% 50%,
+                  60% 100%,
+                  60% 80%,
+                   0% 80%);
+    border: 10px red solid;
+
+}
+
+div#k2{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    clip-path: circle();
+}
+
+div#k3{
+    background-color: green;
+    width: 1000px;
+    height: 1000px;
+    clip-path: ellipse(300px 400px);
+}
+
+div#k4{
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    clip-path: inset(100px 50px 70px 300px);
+}
+
+div#k5{
+    background-color: orange;
+    width: 1000px;
+    height: 1000px;
+    clip-path: polygon(10% 20%,30% 20%,20% 50%);
+}

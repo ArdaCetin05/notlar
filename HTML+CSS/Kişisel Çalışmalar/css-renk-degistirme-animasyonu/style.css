@@ -1,0 +1,23 @@
+div.box{
+    background-color: aqua;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    animation: renkDegisimi 4s infinite; /* animasyon eklemeye yarar ilk parametre animasyonun adı ikinci gerçekleşme süresi 
+    üçüncüsü ise kaç kere gerçekleşeceği eğer sayı yerine infinite olursa sonsuza dek sürer */
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    
+}
+@keyframes renkDegisimi{ /* bir animasyon oluşturur burada yazan renkDegisimi animasyonum adıdır animation ile bu adla çağırılır */
+
+    /* 0% dan 100% e kadar animasyonun her bir adımına stil uygulanır */
+    0%{background-color: blue;border-radius: 100px;border: 3px orange dashed;transform: rotate(20deg);margin-left: 100px;}
+    25%{background-color: turquoise;transform: rotate(34deg);margin-left: 300px;}
+    50%{background-color: rgb(15, 235, 139);border-radius: 70px;border: 4px red dotted;transform: rotate(120deg);margin-left: 500px;}
+    75%{background-color: rgb(43, 226, 55);border-radius: 20px;transform: rotate(-60deg);margin-left: 700px;}
+    100%{background-color: rgb(0, 187, 0);border-radius: 150px;border: 3px purple double;transform: rotate(360deg);margin-left: 1000px;}
+}

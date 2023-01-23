@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\bin\Debug\netcoreapp3.1\veri_tipleri.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\bin\Debug\netcoreapp3.1\veri_tipleri.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\bin\Debug\netcoreapp3.1\veri_tipleri.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\bin\Debug\netcoreapp3.1\veri_tipleri.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\bin\Debug\netcoreapp3.1\veri_tipleri.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\bin\Debug\netcoreapp3.1\veri_tipleri.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\obj\Debug\netcoreapp3.1\veri_tipleri.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\obj\Debug\netcoreapp3.1\veri_tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\obj\Debug\netcoreapp3.1\veri_tipleri.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\obj\Debug\netcoreapp3.1\veri_tipleri.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\obj\Debug\netcoreapp3.1\veri_tipleri.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\obj\Debug\netcoreapp3.1\veri_tipleri.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\obj\Debug\netcoreapp3.1\veri_tipleri.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\veri_tipleri\veri_tipleri\obj\Debug\netcoreapp3.1\veri_tipleri.genruntimeconfig.cache

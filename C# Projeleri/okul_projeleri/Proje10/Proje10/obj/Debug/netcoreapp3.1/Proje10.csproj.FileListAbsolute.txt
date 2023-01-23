@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\Proje10\Proje10\bin\Debug\netcoreapp3.1\Proje10.exe
+C:\Users\arda\Desktop\Proje10\Proje10\bin\Debug\netcoreapp3.1\Proje10.deps.json
+C:\Users\arda\Desktop\Proje10\Proje10\bin\Debug\netcoreapp3.1\Proje10.runtimeconfig.json
+C:\Users\arda\Desktop\Proje10\Proje10\bin\Debug\netcoreapp3.1\Proje10.runtimeconfig.dev.json
+C:\Users\arda\Desktop\Proje10\Proje10\bin\Debug\netcoreapp3.1\Proje10.dll
+C:\Users\arda\Desktop\Proje10\Proje10\bin\Debug\netcoreapp3.1\Proje10.pdb
+C:\Users\arda\Desktop\Proje10\Proje10\obj\Debug\netcoreapp3.1\Proje10.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Proje10\Proje10\obj\Debug\netcoreapp3.1\Proje10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\Proje10\Proje10\obj\Debug\netcoreapp3.1\Proje10.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\Proje10\Proje10\obj\Debug\netcoreapp3.1\Proje10.AssemblyInfo.cs
+C:\Users\arda\Desktop\Proje10\Proje10\obj\Debug\netcoreapp3.1\Proje10.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Proje10\Proje10\obj\Debug\netcoreapp3.1\Proje10.dll
+C:\Users\arda\Desktop\Proje10\Proje10\obj\Debug\netcoreapp3.1\Proje10.pdb
+C:\Users\arda\Desktop\Proje10\Proje10\obj\Debug\netcoreapp3.1\Proje10.genruntimeconfig.cache

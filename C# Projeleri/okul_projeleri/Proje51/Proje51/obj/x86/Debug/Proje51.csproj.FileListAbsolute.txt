@@ -1,0 +1,4 @@
+C:\Users\Salih Eren\OneDrive\Masaüstü\Proje51\Proje51\bin\Debug\Proje51.exe
+C:\Users\Salih Eren\OneDrive\Masaüstü\Proje51\Proje51\bin\Debug\Proje51.pdb
+C:\Users\Salih Eren\OneDrive\Masaüstü\Proje51\Proje51\obj\x86\Debug\Proje51.exe
+C:\Users\Salih Eren\OneDrive\Masaüstü\Proje51\Proje51\obj\x86\Debug\Proje51.pdb

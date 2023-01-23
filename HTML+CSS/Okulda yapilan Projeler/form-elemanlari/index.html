@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proje</title>
+	<style>
+		*{
+			font-size: 22px;
+			color: blue;
+			font-family: Consolas;
+			font-weight: bolder;
+			
+		}
+		body{
+			background-color: darkorange;
+			background-image: url("images/Adsız.png");
+			height:3000px;
+			background-attachment:fixed;
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: contain;
+			
+		}
+		form fieldset{
+		border: 3px blue dashed;
+		border-radius: 16px;
+		
+		}
+		div#box label,input{
+			border: 5px red inset;
+			background-color: bisque;
+			border-radius: 10px;
+		}
+		div#box{
+			border: 4px green dashed;
+			padding: 20px;
+			border-radius: 16px;
+			background: rgba(127,127,127,0.5);
+			background-clip: padding-box;
+			text-align: center;
+			
+			
+		}
+		fieldset textarea{
+			border: 4px red outset;
+			border-radius: 10px;
+			background-color: bisque;
+		}
+	
+	</style>
+</head>
+<body>
+	<form action="#" method="POST">
+		<fieldset>
+		<legend>başlık</legend>
+		<div id="box">
+		<label for="t1">ad :</label>
+		<input name=textbox1 type="text" required/ id="t1" autocomplete="off" placeholder="adınız nedir?"> <br> <hr>
+		<label for="t2">soyad :</label>
+		<input name=textbox2 type="text" required id="t2"/> <br> <hr>
+		<label for="p">parola :</label>
+		<input name=textbox2 type="password" required id="p" tabindex=2/> </div><br> <hr>
+		<button type="submit" style="background-image: url(images/Adsız.png);background-size: contain;width: 200px;height:60px;color:rgba(15,4,6,0.5);border:6px blue dashed;background-origin:border-box;border-radius:30px;font-size:30px;font-family:Comic sans ms;font-weight:bolder;">gönder</button>
+
+		<select>
+			<option value=0>hiçbiri</option>
+			<optgroup label="kültür dersleri">
+				<option value=1>matematik</option>
+				<option value=2>kimya</option>
+				<option value=3>edebiyat</option>
+			</optgroup>
+			<optgroup label="meslek dersleri">
+				<option value=4>wtug</option>
+				<option value=5>yapay zeka</option>
+				<option value=6>mobil uyg.</option>
+			</optgroup>
+
+
+		</select>
+		<textarea cols=30 rows=5 tabindex=1></textarea> <br>
+		<label for="m">yazı :</label>
+		<meter id="m" min=0 max=100 low=30 high=70 value=50></meter>
+		<label for="m2">yazı :</label>
+		<meter id="m2" min=0 max=100 low=70 high=30 value=90></meter> <br>
+		<label for="p1">yazı :</label>
+		<progress id="p1" min=0 max=100 value=34></progress>
+
+		</fieldset>
+
+	</form>
+    
+</body>
+</html>

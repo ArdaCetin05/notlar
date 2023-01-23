@@ -1,0 +1,7 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje26\Proje26\bin\Debug\Proje26.exe.config
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje26\Proje26\bin\Debug\Proje26.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje26\Proje26\bin\Debug\Proje26.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje26\Proje26\obj\Debug\Proje26.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje26\Proje26\obj\Debug\Proje26.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje26\Proje26\obj\Debug\Proje26.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje26\Proje26\obj\Debug\Proje26.pdb

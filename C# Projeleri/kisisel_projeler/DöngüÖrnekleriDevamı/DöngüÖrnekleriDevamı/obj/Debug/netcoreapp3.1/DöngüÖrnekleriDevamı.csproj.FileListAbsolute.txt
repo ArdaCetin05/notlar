@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\bin\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\bin\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\bin\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\bin\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\bin\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\bin\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\obj\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\obj\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\obj\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\obj\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\obj\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\obj\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\obj\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\DöngüÖrnekleriDevamı\DöngüÖrnekleriDevamı\obj\Debug\netcoreapp3.1\DöngüÖrnekleriDevamı.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\arda\Desktop\Proje48\Proje48\bin\Debug\Proje48.exe.config
+C:\Users\arda\Desktop\Proje48\Proje48\bin\Debug\Proje48.exe
+C:\Users\arda\Desktop\Proje48\Proje48\bin\Debug\Proje48.pdb
+C:\Users\arda\Desktop\Proje48\Proje48\obj\Debug\Proje48.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Proje48\Proje48\obj\Debug\Proje48.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Proje48\Proje48\obj\Debug\Proje48.exe
+C:\Users\arda\Desktop\Proje48\Proje48\obj\Debug\Proje48.pdb

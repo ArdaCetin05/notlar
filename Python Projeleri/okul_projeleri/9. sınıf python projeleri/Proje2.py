@@ -1,0 +1,6 @@
+print ("-------------------")
+print ("Proje2 : string birleştirme")
+ad = input("Adınız: ")
+soyad = input ("soyadınız: ")
+print ("merhaba " + ad + " " + soyad + " hoşgeldiniz...")
+input ()

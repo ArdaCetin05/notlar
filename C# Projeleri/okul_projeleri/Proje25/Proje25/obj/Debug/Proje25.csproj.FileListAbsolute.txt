@@ -1,0 +1,6 @@
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje25\Proje25\bin\Debug\Proje25.exe.config
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje25\Proje25\bin\Debug\Proje25.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje25\Proje25\bin\Debug\Proje25.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje25\Proje25\obj\Debug\Proje25.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje25\Proje25\obj\Debug\Proje25.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje25\Proje25\obj\Debug\Proje25.pdb

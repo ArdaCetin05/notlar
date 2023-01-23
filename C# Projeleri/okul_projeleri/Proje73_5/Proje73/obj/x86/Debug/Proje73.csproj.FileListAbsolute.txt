@@ -1,0 +1,112 @@
+D:\Proje73\Proje73\obj\x86\Debug\Proje73.Form1.resources
+D:\Proje73\Proje73\obj\x86\Debug\Proje73.Properties.Resources.resources
+D:\Proje73\Proje73\obj\x86\Debug\Proje73.csproj.GenerateResource.Cache
+D:\Proje73\Proje73\obj\x86\Debug\Proje73.Resource1.resources
+D:\Proje73\Proje73\bin\Debug\Proje73.exe
+D:\Proje73\Proje73\bin\Debug\Proje73.pdb
+D:\Proje73\Proje73\obj\x86\Debug\Proje73.exe
+D:\Proje73\Proje73\obj\x86\Debug\Proje73.pdb
+D:\Proje73\Proje73\obj\x86\Debug\Proje73.csprojResolveAssemblyReference.cache
+D:\Proje73\Proje73\obj\x86\Debug\Proje73.Form2.resources
+D:\Proje73\Proje73\bin\Debug\OKULDB.accdb
+E:\Proje73\Proje73\bin\Debug\OKULDB.accdb
+E:\Proje73\Proje73\bin\Debug\Proje73.exe
+E:\Proje73\Proje73\bin\Debug\Proje73.pdb
+E:\Proje73\Proje73\obj\x86\Debug\Proje73.csproj.AssemblyReference.cache
+E:\Proje73\Proje73\obj\x86\Debug\Proje73.Form1.resources
+E:\Proje73\Proje73\obj\x86\Debug\Proje73.Form2.resources
+E:\Proje73\Proje73\obj\x86\Debug\Proje73.Properties.Resources.resources
+E:\Proje73\Proje73\obj\x86\Debug\Proje73.Resource1.resources
+E:\Proje73\Proje73\obj\x86\Debug\Proje73.csproj.GenerateResource.cache
+E:\Proje73\Proje73\obj\x86\Debug\Proje73.csproj.CoreCompileInputs.cache
+E:\Proje73\Proje73\obj\x86\Debug\Proje73.exe
+E:\Proje73\Proje73\obj\x86\Debug\Proje73.pdb
+D:\Hasan Çetik 249\Proje73_2\Proje73\obj\x86\Debug\Proje73.exe
+D:\Hasan Çetik 249\Proje73_2\Proje73\obj\x86\Debug\Proje73.pdb
+D:\Hasan Çetik 249\Proje73_2\Proje73\bin\Debug\OKULDB.accdb
+D:\Hasan Çetik 249\Proje73_2\Proje73\bin\Debug\Proje73.exe
+D:\Hasan Çetik 249\Proje73_2\Proje73\bin\Debug\Proje73.pdb
+D:\Hasan Çetik 249\Proje73_2\Proje73\obj\x86\Debug\Proje73.csprojResolveAssemblyReference.cache
+D:\Hasan Çetik 249\Proje73_2\Proje73\obj\x86\Debug\Proje73.Form1.resources
+D:\Hasan Çetik 249\Proje73_2\Proje73\obj\x86\Debug\Proje73.Form2.resources
+D:\Hasan Çetik 249\Proje73_2\Proje73\obj\x86\Debug\Proje73.Properties.Resources.resources
+D:\Hasan Çetik 249\Proje73_2\Proje73\obj\x86\Debug\Proje73.Resource1.resources
+D:\Hasan Çetik 249\Proje73_2\Proje73\obj\x86\Debug\Proje73.csproj.GenerateResource.Cache
+D:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.exe
+D:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.pdb
+D:\Hasan Çetik 249\Proje73_3\Proje73\bin\Debug\OKULDB.accdb
+D:\Hasan Çetik 249\Proje73_3\Proje73\bin\Debug\Proje73.exe
+D:\Hasan Çetik 249\Proje73_3\Proje73\bin\Debug\Proje73.pdb
+D:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.csprojResolveAssemblyReference.cache
+D:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Form1.resources
+D:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Form2.resources
+D:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Properties.Resources.resources
+D:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Resource1.resources
+D:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.csproj.GenerateResource.Cache
+D:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Form3.resources
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.csproj.AssemblyReference.cache
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Form1.resources
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Form2.resources
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Form3.resources
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Properties.Resources.resources
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.Resource1.resources
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.csproj.GenerateResource.cache
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.csproj.CoreCompileInputs.cache
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.exe
+E:\Hasan Çetik 249\Proje73_3\Proje73\obj\x86\Debug\Proje73.pdb
+E:\Hasan Çetik 249\Proje73_3\Proje73\bin\Debug\OKULDB.accdb
+E:\Hasan Çetik 249\Proje73_3\Proje73\bin\Debug\Proje73.exe
+E:\Hasan Çetik 249\Proje73_3\Proje73\bin\Debug\Proje73.pdb
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.exe
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.pdb
+D:\Hasan Çetik 249\Proje73_4\Proje73\bin\Debug\OKULDB.accdb
+D:\Hasan Çetik 249\Proje73_4\Proje73\bin\Debug\Proje73.exe
+D:\Hasan Çetik 249\Proje73_4\Proje73\bin\Debug\Proje73.pdb
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.csprojResolveAssemblyReference.cache
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.Form1.resources
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.Form2.resources
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.Form3.resources
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.Form4.resources
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.Properties.Resources.resources
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.Resource1.resources
+D:\Hasan Çetik 249\Proje73_4\Proje73\obj\x86\Debug\Proje73.csproj.GenerateResource.Cache
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\bin\Debug\OKULDB.accdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\bin\Debug\Proje73.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\bin\Debug\Proje73.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.csprojResolveAssemblyReference.cache
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.Form1.resources
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.Form2.resources
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.Form3.resources
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.Form4.resources
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.Properties.Resources.resources
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.Resource1.resources
+C:\Users\Bil-Lab2-PC19\Desktop\Proje73_4\Proje73\obj\x86\Debug\Proje73.csproj.GenerateResource.Cache
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.exe
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.pdb
+D:\Proje73_5\Proje73\bin\Debug\OKULDB.accdb
+D:\Proje73_5\Proje73\bin\Debug\Proje73.exe
+D:\Proje73_5\Proje73\bin\Debug\Proje73.pdb
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.csprojResolveAssemblyReference.cache
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.Form1.resources
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.Form2.resources
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.Form3.resources
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.Form4.resources
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.Properties.Resources.resources
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.Resource1.resources
+D:\Proje73_5\Proje73\obj\x86\Debug\Proje73.csproj.GenerateResource.Cache
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\bin\Debug\OKULDB.accdb
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\bin\Debug\Proje73.exe
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\bin\Debug\Proje73.pdb
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.csproj.AssemblyReference.cache
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.Form1.resources
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.Form2.resources
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.Form3.resources
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.Form4.resources
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.Properties.Resources.resources
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.Resource1.resources
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.csproj.GenerateResource.cache
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.csproj.CoreCompileInputs.cache
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.exe
+C:\Users\ardac\Desktop\Kişisel\Projelerim\C# Projeleri\okul_projeleri\Proje73_5\Proje73\obj\x86\Debug\Proje73.pdb

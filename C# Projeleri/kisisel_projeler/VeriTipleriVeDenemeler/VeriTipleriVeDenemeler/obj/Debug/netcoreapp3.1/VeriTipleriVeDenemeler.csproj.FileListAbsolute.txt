@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\bin\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\bin\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\bin\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\bin\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\bin\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\bin\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\obj\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\obj\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\obj\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\obj\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\obj\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\obj\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\obj\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\VeriTipleriVeDenemeler\VeriTipleriVeDenemeler\obj\Debug\netcoreapp3.1\VeriTipleriVeDenemeler.genruntimeconfig.cache

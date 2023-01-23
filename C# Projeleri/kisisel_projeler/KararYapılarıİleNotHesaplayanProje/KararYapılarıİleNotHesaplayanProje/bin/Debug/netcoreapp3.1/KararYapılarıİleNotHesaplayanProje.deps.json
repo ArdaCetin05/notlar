@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KararYapılarıİleNotHesaplayanProje/1.0.0": {
+        "runtime": {
+          "KararYapılarıİleNotHesaplayanProje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KararYapılarıİleNotHesaplayanProje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

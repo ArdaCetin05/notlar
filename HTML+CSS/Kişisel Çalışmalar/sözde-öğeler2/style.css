@@ -1,0 +1,158 @@
+ul.ul1 li:nth-child(1){ /* normalde biz ilk li yi seçmek istersek hiç bir şey olmayacaktır çünkü li 1. değil 2. elemandır
+    ondan önce p elemanı geliyor */
+    background-color: aqua;
+}
+
+ul.ul1 li:nth-of-type(1){/* ancak nth-of-type li lerin ilk sırasında baktığı için li 2. eleman olsa bile yine de 1. li o olduğu
+    için onu seçecektir */
+    background-color: aqua;
+}
+
+ul.ul1 li:nth-last-child(2){ /* nth-child ile aynıdır tek farkı sondan seçim yapar */
+    background-color: red;
+}
+
+ul.ul1 li:nth-last-of-type(2){ /* nth-of-type ile aynıdır tek farkı sondan seçim yapar */
+    background-color: blue;
+}
+p#hoverornek:hover{ /* imleç belirtilen öğenin üzerine geldiği zaman çalışır */
+    color: red;
+    background-color: aqua;
+    border: 2px dashed red;
+    transition-duration: 0.2s;
+}
+
+ol span:hover ~ li{
+    background-color: lime;
+}
+#checkbox1 + label::after{
+    content: " Gizle ";
+    cursor: pointer;
+}
+#checkbox1:checked + label::after{ /* checked özelliği sadece type'ı checkbox ve radio input etiketlerinde kullanılabilir
+                                      nesne işaretlendiğinde çalışacak olan stilleri belirtir */
+    content: " Göster ";
+    cursor: pointer;
+}
+#checkbox1:checked+label+div{
+    display: none;
+}
+div~.button:focus{ /* nesneye focuslandığımızda çalışan stiller */
+    background-color: aqua;
+}
+
+ul.ul2 li:focus{ /* focus özelliği sadece odaklanılabilir nesneler üzerinde çalışır eğer bir nesne odaklanılabilir değilse html koduna tabindex verilebilir */
+    background-color: green;
+}
+
+ul.ul2:focus-within{/* focus within tek başına bir işe yaramaz ancak eğer child larından en az birinde focus özelliği varsa seçili olan ebeveynin focus-within çalışır */
+    background-color: aqua;
+}
+ol.ol2 li:only-child{ /* kapsayıcısının içindeki tek eleman li ise only-child özelliği çalışır eğer birden fazla etiket varsa stiller çalışmayacaktır */
+    background-color: red;
+}
+ol.ol2 *:only-of-type{ /* burada yazan ol etiketinin içindeki tüm herşeyi seç eğer her etiketen bir tane varsa ona işlem yap yani
+                        ol etiketinin içince bir tane li etiketi olduğu için ona işlem yapabilir ancak p etiketinden iki tane olduğu için yani tek olmadığı için ona işlem yapamaz */
+    background-color: blue;
+}
+
+h1:not([title="lorem1"]){ /* içine belirtilen seçicilerin tam tersini seçer örnekte olduğu gibi normalde title özelliğinin değeri "lorem1" olanları seçmesi gerekir
+                            ancak :not() sayesinde anlamı tam tersi olur yani title="lorem1" OLMAYAN tüm h1 leri seçer */
+    background-color: yellow;
+}
+
+div:empty{ /* empty özelliği içeriği boş olan öğeleri seçer */
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+input[type="email"]:valid{ /* içerisine yazı yazılabilen form elemanlarında kullanılır eğer input ların içerisinde bir koşul varsa "required" gibi
+                            girilen mesaj geçerli olduğunda ,yani hata mesajı vermediğinde  bu still işlemi çalışır*/
+    background-color: blue;
+    color: red;
+}
+input[type="email"]:invalid{/* eğer girilen değer geçersizse yani required değeri veriliğ boş bırakılmışsa ya da özel bir pattern verilip o pattern'e uyulmamışsa
+                                bu still işlemmi çalışır */
+    background-color:red;
+    color: blue;
+}
+
+
+
+/* seçili element veya elementler aktif ise yani tıklanılabilir,yazılabilir,işaretlenebilir durumda ise bu stiller çalışır */
+:enabled{
+    background-color: lime;
+}
+
+/* eğer tıklanamaz,yazılamaz ve seçilemez durumda ise yani disabled  değeri verildiyse bu stiller çalışır */
+:disabled{
+    background-color: tomato;
+}
+
+/*
+[disabled]{ ayrıca bu şekildede kullanılabilir
+    background-color: aqua;
+}
+*/
+
+input[type="text"]:optional{/* eğer type ı text olan inputlarda veya textarea etiketlerinde required kullanılmadıysa yani kullanıcıya girmek zorunda bırakadıysa bu still çalışır */
+    background-color: lightblue;
+}
+
+input[type="text"]:required{ /* eğer boş bırakıldığı zaman hata veriyorsa yani required özelliğine sahipse bu stiller çalışır */
+    background-color: lightcoral;
+}
+input[type="text"]:read-only{ /* readonly yani sadece okunabilir form elemanlarını seçer */
+    background-color: chocolate;
+    color: red;
+}
+input[type="text2"]:read-write{/* hem okunablir hemde yazılabilir elemanları seçer yani html etiketinin özelliğine readonly yazmayan herşeyi seçebilir*/
+    background-color: cadetblue;
+    color: darkblue;
+}
+
+
+
+a:nth-of-type(1):link{ /* ziyaret edilmemiş linklerde çalışacak olan stilleri belirtir */
+    text-decoration: none;
+    font-size: 3em;
+}
+a:nth-of-type(2):visited{ /* ziyaret edilmiş linklerde çalışacak olan stilleri belirtir */
+    color: pink;
+}
+:any-link{ /* href özelliği olan linkleri seçer */
+    background-color: gold;
+    color: red;
+}
+
+a:not(:any-link){ /* daha önce kullandığımız :not() sözde sınıfı ile de kullanılabilir
+    normalde :any-link link bağlantısı olan etiketleri seçer ancak :not ile kullanıldığında tam tersi bir anlam kazanır
+    yani link bağlantısı OLMAYAN etiketleri seçer */
+    background-color: darkmagenta;
+}
+#pa:target{ /* a etiketi ile yapılan sayfa içi link verme yöntemiyle yönlendirilen etiketi seçmeye yarar
+    örneğin hata etiketinin içindeki mesaja tıklandığında p etiketine yönlendirirken :target sayesinde p etiketindeki
+    yazının renginin değişmesi */
+    background-color: black;
+    color: white;
+}
+
+
+
+
+/* sayılarla işlem yapan input etikenleri eğer min ve max değer aralında ise çalışacak olan stili belirtir */
+input[type="number"]:in-range +p{
+    color: blue;
+}
+
+/* eğer belirtilen aralık dışına çıkarsa çalışacak olan stili belirtir */
+input[type="number"]:out-of-range +p{
+    color: red;
+}
+/* NOT : in-range yerine valid , out-of-range yerine invalid kullanılarak aynı sonuç elde edilebilir */
+
+:root{ /* html sayfasındaki <html> etiketini temsil eder genelde global değişken tanımlamak için kullanılır */
+    font-family: consolas;
+    --kirmizi:#ff0000;
+}

@@ -1,0 +1,10 @@
+D:\proje73\proje73\obj\x86\Debug\proje73.Form1.resources
+D:\proje73\proje73\obj\x86\Debug\proje73.Properties.Resources.resources
+D:\proje73\proje73\obj\x86\Debug\proje73.csproj.GenerateResource.Cache
+D:\proje73\proje73\bin\Debug\proje73.exe
+D:\proje73\proje73\bin\Debug\proje73.pdb
+D:\proje73\proje73\obj\x86\Debug\proje73.exe
+D:\proje73\proje73\obj\x86\Debug\proje73.pdb
+D:\proje73\proje73\obj\x86\Debug\proje73.Resource1.resources
+D:\proje73\proje73\obj\x86\Debug\proje73.Form2.resources
+D:\proje73\proje73\bin\Debug\OKULDB.accdb

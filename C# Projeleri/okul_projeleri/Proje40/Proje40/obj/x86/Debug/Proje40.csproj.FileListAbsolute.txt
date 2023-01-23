@@ -1,0 +1,10 @@
+C:\Users\Bil-Lab2-PC19\Desktop\Proje40\Proje40\bin\Debug\Proje40.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje40\Proje40\bin\Debug\Proje40.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\Proje40\Proje40\obj\x86\Debug\Proje40.exe
+C:\Users\Bil-Lab2-PC19\Desktop\Proje40\Proje40\obj\x86\Debug\Proje40.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje40\Proje40\bin\Debug\Proje40.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje40\Proje40\bin\Debug\Proje40.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje40\Proje40\obj\x86\Debug\Proje40.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje40\Proje40\obj\x86\Debug\Proje40.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje40\Proje40\obj\x86\Debug\Proje40.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\okul_projeleri\Proje40\Proje40\obj\x86\Debug\Proje40.pdb

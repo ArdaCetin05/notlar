@@ -1,0 +1,4 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayıTekMiÇiftMi\GirilenSayıTekMiÇiftMi\obj\Debug\netcoreapp3.1\GirilenSayıTekMiÇiftMi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayıTekMiÇiftMi\GirilenSayıTekMiÇiftMi\obj\Debug\netcoreapp3.1\GirilenSayıTekMiÇiftMi.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayıTekMiÇiftMi\GirilenSayıTekMiÇiftMi\obj\Debug\netcoreapp3.1\GirilenSayıTekMiÇiftMi.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\GirilenSayıTekMiÇiftMi\GirilenSayıTekMiÇiftMi\obj\Debug\netcoreapp3.1\GirilenSayıTekMiÇiftMi.csproj.CoreCompileInputs.cache

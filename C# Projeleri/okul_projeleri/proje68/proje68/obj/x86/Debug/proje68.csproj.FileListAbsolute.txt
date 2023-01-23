@@ -1,0 +1,16 @@
+C:\Users\Bil-Lab2-PC19\Desktop\proje68\proje68\bin\Debug\proje68.exe
+C:\Users\Bil-Lab2-PC19\Desktop\proje68\proje68\bin\Debug\proje68.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\proje68\proje68\obj\x86\Debug\proje68.Properties.Resources.resources
+C:\Users\Bil-Lab2-PC19\Desktop\proje68\proje68\obj\x86\Debug\proje68.csproj.GenerateResource.Cache
+C:\Users\Bil-Lab2-PC19\Desktop\proje68\proje68\obj\x86\Debug\proje68.exe
+C:\Users\Bil-Lab2-PC19\Desktop\proje68\proje68\obj\x86\Debug\proje68.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\proje68\proje68\obj\x86\Debug\proje68.Form1.resources
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje68\proje68\bin\Debug\proje68.exe
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje68\proje68\bin\Debug\proje68.pdb
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje68\proje68\obj\x86\Debug\proje68.csproj.AssemblyReference.cache
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje68\proje68\obj\x86\Debug\proje68.Form1.resources
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje68\proje68\obj\x86\Debug\proje68.Properties.Resources.resources
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje68\proje68\obj\x86\Debug\proje68.csproj.GenerateResource.cache
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje68\proje68\obj\x86\Debug\proje68.csproj.CoreCompileInputs.cache
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje68\proje68\obj\x86\Debug\proje68.exe
+C:\Users\ardac\Desktop\Projelerim\C# Projeleri\okul_projeleri\proje68\proje68\obj\x86\Debug\proje68.pdb

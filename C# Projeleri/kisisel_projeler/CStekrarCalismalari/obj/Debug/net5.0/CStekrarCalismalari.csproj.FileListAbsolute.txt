@@ -1,0 +1,16 @@
+C:\Users\arda\Desktop\CStekrarCalismalari\bin\Debug\net5.0\CStekrarCalismalari.exe
+C:\Users\arda\Desktop\CStekrarCalismalari\bin\Debug\net5.0\CStekrarCalismalari.deps.json
+C:\Users\arda\Desktop\CStekrarCalismalari\bin\Debug\net5.0\CStekrarCalismalari.runtimeconfig.json
+C:\Users\arda\Desktop\CStekrarCalismalari\bin\Debug\net5.0\CStekrarCalismalari.runtimeconfig.dev.json
+C:\Users\arda\Desktop\CStekrarCalismalari\bin\Debug\net5.0\CStekrarCalismalari.dll
+C:\Users\arda\Desktop\CStekrarCalismalari\bin\Debug\net5.0\ref\CStekrarCalismalari.dll
+C:\Users\arda\Desktop\CStekrarCalismalari\bin\Debug\net5.0\CStekrarCalismalari.pdb
+C:\Users\arda\Desktop\CStekrarCalismalari\obj\Debug\net5.0\CStekrarCalismalari.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\CStekrarCalismalari\obj\Debug\net5.0\CStekrarCalismalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\CStekrarCalismalari\obj\Debug\net5.0\CStekrarCalismalari.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\CStekrarCalismalari\obj\Debug\net5.0\CStekrarCalismalari.AssemblyInfo.cs
+C:\Users\arda\Desktop\CStekrarCalismalari\obj\Debug\net5.0\CStekrarCalismalari.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\CStekrarCalismalari\obj\Debug\net5.0\CStekrarCalismalari.dll
+C:\Users\arda\Desktop\CStekrarCalismalari\obj\Debug\net5.0\ref\CStekrarCalismalari.dll
+C:\Users\arda\Desktop\CStekrarCalismalari\obj\Debug\net5.0\CStekrarCalismalari.pdb
+C:\Users\arda\Desktop\CStekrarCalismalari\obj\Debug\net5.0\CStekrarCalismalari.genruntimeconfig.cache

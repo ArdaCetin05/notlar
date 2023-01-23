@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\bin\Debug\netcoreapp3.1\ForEachDöngüsü.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\bin\Debug\netcoreapp3.1\ForEachDöngüsü.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\bin\Debug\netcoreapp3.1\ForEachDöngüsü.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\bin\Debug\netcoreapp3.1\ForEachDöngüsü.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\bin\Debug\netcoreapp3.1\ForEachDöngüsü.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\bin\Debug\netcoreapp3.1\ForEachDöngüsü.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\netcoreapp3.1\ForEachDöngüsü.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\netcoreapp3.1\ForEachDöngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\netcoreapp3.1\ForEachDöngüsü.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\netcoreapp3.1\ForEachDöngüsü.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\netcoreapp3.1\ForEachDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\netcoreapp3.1\ForEachDöngüsü.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\netcoreapp3.1\ForEachDöngüsü.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\netcoreapp3.1\ForEachDöngüsü.genruntimeconfig.cache

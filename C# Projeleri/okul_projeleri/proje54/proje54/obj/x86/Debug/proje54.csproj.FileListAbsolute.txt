@@ -1,0 +1,7 @@
+C:\Users\Bil-Lab2-PC19\Desktop\proje54\proje54\bin\Debug\proje54.exe
+C:\Users\Bil-Lab2-PC19\Desktop\proje54\proje54\bin\Debug\proje54.pdb
+C:\Users\Bil-Lab2-PC19\Desktop\proje54\proje54\obj\x86\Debug\proje54.Form1.resources
+C:\Users\Bil-Lab2-PC19\Desktop\proje54\proje54\obj\x86\Debug\proje54.Properties.Resources.resources
+C:\Users\Bil-Lab2-PC19\Desktop\proje54\proje54\obj\x86\Debug\proje54.csproj.GenerateResource.Cache
+C:\Users\Bil-Lab2-PC19\Desktop\proje54\proje54\obj\x86\Debug\proje54.exe
+C:\Users\Bil-Lab2-PC19\Desktop\proje54\proje54\obj\x86\Debug\proje54.pdb

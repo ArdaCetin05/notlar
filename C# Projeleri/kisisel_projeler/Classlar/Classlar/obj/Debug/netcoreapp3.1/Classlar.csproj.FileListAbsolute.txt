@@ -1,0 +1,14 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.genruntimeconfig.cache

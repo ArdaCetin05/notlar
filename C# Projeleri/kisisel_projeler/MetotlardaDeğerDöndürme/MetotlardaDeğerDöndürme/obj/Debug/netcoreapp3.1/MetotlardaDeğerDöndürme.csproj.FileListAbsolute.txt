@@ -1,0 +1,13 @@
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\bin\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.exe
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\bin\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.deps.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\bin\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.runtimeconfig.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\bin\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.runtimeconfig.dev.json
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\bin\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\bin\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\obj\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\obj\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\obj\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.AssemblyInfo.cs
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\obj\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\obj\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.dll
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\obj\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.pdb
+C:\Users\arda\Desktop\C# Projeleri\kisisel_projeler\MetotlardaDeğerDöndürme\MetotlardaDeğerDöndürme\obj\Debug\netcoreapp3.1\MetotlardaDeğerDöndürme.genruntimeconfig.cache

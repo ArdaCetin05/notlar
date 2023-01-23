@@ -1,0 +1,28 @@
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.exe
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.deps.json
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.runtimeconfig.json
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.runtimeconfig.dev.json
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.dll
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.pdb
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.csproj.AssemblyReference.cache
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.AssemblyInfoInputs.cache
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.AssemblyInfo.cs
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.csproj.CoreCompileInputs.cache
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.dll
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.pdb
+C:\Users\arda\source\repos\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.genruntimeconfig.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.exe
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.deps.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.runtimeconfig.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.runtimeconfig.dev.json
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\bin\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.csproj.AssemblyReference.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.AssemblyInfoInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.AssemblyInfo.cs
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.csproj.CoreCompileInputs.cache
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.dll
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.pdb
+C:\Users\arda\Desktop\Programming\C# Projeleri\kisisel_projeler\dotnetRunIleCmddenVeriAlna\dotnetRunIleCmddenVeriAlna\obj\Debug\netcoreapp3.1\dotnetRunIleCmddenVeriAlna.genruntimeconfig.cache

@@ -1,0 +1,62 @@
+div.kutu{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 80px;
+    transition: all 1500ms;
+}
+#x:checked~div.kutu{
+    transform: rotateX(180deg); /* yatay olarak döndürür parametre olarak açı alır */
+}
+#y:checked~div.kutu{
+    transform: rotateY(180deg); /* dikey olarak döndürür parametre olarak açı alır */
+}
+
+div.kutu2{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+    transition: all 800ms;
+
+}
+div.kutu3{
+    background-color: green;
+    transform: scale(3,2) translate(420px,50%); /* orjinal boyutuna oranla yeniden ölçeklendirir
+    ilk parametre genişliğidir ikincisi yüksekliği scale(3,2) olduğu da mevcur genişliğinin 3 katı yüksekliğinin 2 katı yap demektir
+    ancak normal bir şekilde boyutunu değiştirmekle arasındaki fark scale ile yapıldığında içindekilerin de oranı değişir
+    scale(3,2) olduğunda yazınında genişliğinin artması gibi ayrıca scaleX() ve scaleY() olarakta ayrı ayrı kullanılabilir */
+
+    /*
+        transtlete ise nesneyi konumlandırmaya yarar ilk param. x ikinci param. y değeridir
+        transleteX() ve transleteY() olarak ayrı kullanılabilir
+    */
+    /*transform: matrix(3,2,5,3,2,1); rotate , skew , scale vb gibi diğer translate özelliklerin kısaltmasıdır not: farklı hesaplanır */
+
+}
+div.kutu4{
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    position: absolute;
+    left: 400px;
+    top: 900px;
+    animation: don 2s linear  infinite;
+
+    transform-origin: top left; /* dönme noktasını değiştirir varsayılan değer center dır */
+
+    border-bottom: 14px solid red;
+    border-top: 14px solid green;
+    border-left: 14px solid blue;
+    border-right: 14px solid yellow;
+}
+
+
+@keyframes don{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
