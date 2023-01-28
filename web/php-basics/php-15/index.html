@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GET isteği</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="form">
+        <form action="get.php" method="get">
+            <fieldset id="fs1">
+                <legend>Bilgileriniz</legend>
+                <input type="text" name="isim" id="isim" placeholder="Adınızı giriniz">
+                <input type="text" name="soyisim" id="soyisim" placeholder="Soyadınızı giriniz">
+            </fieldset>
+            <fieldset id="fs2">
+                <legend>Hobileriniz</legend>
+                <div id="kutu">
+                <label> Futbol oynamak <input type="checkbox" name="hobiler[]" value="ch1"></label>
+                <label> Oyun oynamak <input type="checkbox" name="hobiler[]" value="ch2"></label>
+                <label> Yemek yemek <input type="checkbox" name="hobiler[]" value="ch3"></label>
+                <label> Tiktok izlemek <input type="checkbox" name="hobiler[]" value="ch4"></label>
+                </div>
+            </fieldset>
+            <fieldset id="fs3">
+                <legend>İşlemler</legend>
+                <button type="submit">Gönder</button>
+                <button type="reset">Sil</button>
+            </fieldset>
+        </form>
+    </div>
+    
+</body>
+</html>
