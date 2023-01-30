@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "yeniFontum";  /* burada tanımlayacağımızın fontun hangi adla çağırılacağını belirliyoruz */
+    src: local("Adore Free"),url("Adore Free.ttf") format("truetype");
+    /*
+    src ile font dosyasının kaynağınıbelirtiyoruz öte yandan parametre olarak birkaç fonksiyon alıyor
+    local("font-dosya-adi") ile kullanıcının parametre olarak verilen isimli font bilgisayarda varsa oradan çeker
+    url("font-dosya-adi") bu da local() gibi ancak eğer bu font dosyası kullanıcıda yoksa interneten kullanıcının bilgisayarına indirir
+    
+    yabi ilk local kullanıldıığında eğer kullanıcısın bilgisayarında bu font varsa oradan çeker eğer yoksa url() çalışır
+    ve fontu indirir
+
+    format("dosya-tipi") ise font dosyasının hangi dosya tipinde olduğu belirtilmelidir
+    (gözlemlediğim kadarıyla bu belirtilmezse bir sorun oluşmuyor ama kullanılmasında fayda var)
+    */
+    font-display: swap; /* bu ise font dosyası kullanıcısın bilgisayarına yüklenene kadar varsayılan sistem fontu ile açılmasını sağlar */
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+/* internetten bu şekilde direk fontta çekilebilir ve hazır bir şekilde kullanılabilir */
+/* sistemin içerisinde olmayan bir font eklemek istersek font-face ile tanımlıyoruz */
+p{
+    font-family: "yeniFontum";
+    font-size: 30px;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+}
