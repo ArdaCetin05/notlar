@@ -1,0 +1,87 @@
+select{
+    appearance: none;
+}
+
+input[type="file"]::file-selector-button{
+    background-color: aqua;
+    border-radius: 20px;
+    transition: all 1s;
+}
+input[type="file"]::file-selector-button:hover{
+    background-color: blue;
+}
+p:nth-of-type(1){
+    user-select: none;
+}
+.box{
+    --i:120px;
+    display: inline-block;
+    height: calc(var(--i)*2);
+    width: calc(20*30px);
+    background-color: aqua;
+    margin: calc(var(--i) * 20 /87);
+    white-space: pre;
+    overflow: auto;
+}
+
+::-webkit-scrollbar{
+    background: linear-gradient(0deg, red,blue);
+    width: 35px;
+    height: 35px;
+}
+
+
+/* not bu seçiciler sadece chrome,safari,edge,opera için geçerlidir firefox için div in içerisisine scrollbar-width , scrollbar-color kullanmalısınız */
+::-webkit-scrollbar-button{
+    background-color: brown;
+}
+::-webkit-scrollbar-thumb{
+    background-color: green;
+    border-radius: 20px;
+}
+::-webkit-scrollbar-corner{
+    background-color: yellow;
+}/*
+::-webkit-scrollbar-track{
+    background-color: cadetblue;
+}
+::-webkit-scrollbar-track-piece{
+    background-color: gray;
+}*/
+
+body{
+    height: 3000px;/*
+    scrollbar-color: red blue;
+    scrollbar-width: thin;*/
+}
+
+
+/*
+css de diğer özellikler
+
+appearance = özelliği bildiğim kadarıyla 2 değer alır bunlar none ve auto dur genelde bu özellik form elemanlarında kullanılır ve
+none değerini aldığında tarayıcının veya sistemin form elemanına uyguladığı stil işlemini yok saymasını sağlar varsayılan değer auto dur
+yani sistemin veya tarayıcının otomatik olarak stil atamasını sağlar
+
+
+::file-selector-button = bu sözde sınıf veya seçici herneyse inputun file type'ındaki buttonu temsil ediyor yani onun üzerine işlem yapmayı sağlıyor
+
+user-select = bu özellik ctrl+a ile veya imleç ile tıklanarak yazıların veya etiketlerin seçilip seçilemeyeceğiin sağlar
+none -> hiçbirşekilde seçilemez
+all -> seçilebilir ve yazının veya elemanın üzerine bir kere tıklandığında hepsini seçer
+auto -> tarayıcı kendisine göre ayarlar (genelde hepsi seçilir)
+text ->  yazı seçilebilir hale gelir
+
+calc() = matematiksel işlemler yapmayı sağlar
+
+overflow = bu özellik yukarıdaki örnekte göründüğü gibi bir kapsayıcının içindeki taşan kısımların üzerinde işlem yapmayı sağlar
+hidden -> taşan kısımlar gizlenir
+scroll -> taşan kısım varsa ya da yoksa(farketmez) bir scrollbar oluşturur
+auto -> taşan kısımlar varsa scrollbar oluşturur yoksa oluşturmaz
+visible -> taşan kısımlar olduğu gibi görünür varsayılan değerdir
+
+ayrıca overflow-x , overflow-y olarak ayrı ayrı kullanılabilirler
+
+
+
+*/

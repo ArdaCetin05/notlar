@@ -1,0 +1,44 @@
+body,html{
+    height: 3000px;
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    scroll-behavior: smooth; /* sayfa içi geçişlerde aniden değilde sayaşça animasyonlu bir şekilde geçiş yapmaya yarar */
+    scroll-margin: 300px; /* linklerle geçiş yapıldığında margin koymaya yarar*/
+}
+ul{
+    background-color: darkblue;
+    padding: 0px;
+    margin: 0px;
+}
+ul li{
+    display: inline-block;
+    width: 50px;
+    padding: 0px 20px;
+    list-style: none;
+    margin: 5px 10px;
+}
+li a{
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+li a:hover{
+    color: aqua;
+    font-weight: bold;
+}
+
+.side{
+    background-color: blue;
+    border: 3px red dashed;
+    box-sizing: border-box;
+    --i:100%;
+    width: var(--i);
+    height: var(--i);
+    color: white;
+    font-size: 30px;
+    padding: 30px;
+    text-align: center;
+}

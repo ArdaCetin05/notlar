@@ -1,0 +1,17 @@
+@import url("normalize.css");
+@import url("reset.css");
+
+
+
+/*
+
+her tarayıcı kendi içerisinde her etikete farklı stil işlemleri uygulayabiliyor
+bu da her tarayıcıda web sitemizin farklı gözükmesine neden oluyor
+bu sebebten dolayı bazı insanların "normalizecss" , "resetcss" gibi tarayıcıların
+otomatik olarak atadığı stillerin üzerine yazmak için yazılan ve genel olarak çoğu ek stile
+0 , none gibi olabildiğince ortalama değerler vererek esnek bir yapı oluşturuluyor
+ve her tarayıcıda aynı görünüm sağlanıyor
+
+
+
+*/
